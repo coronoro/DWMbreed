@@ -17,27 +17,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 6
+        "growthRef": 16
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 10
       },
       {
         "stat": "ATK",
-        "growthRef": 8
+        "growthRef": 13
       },
       {
         "stat": "DEF",
-        "growthRef": 20
+        "growthRef": 8
       },
       {
         "stat": "AGL",
-        "growthRef": 6
+        "growthRef": 20
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 16
       }
     ]
   },
@@ -59,7 +59,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "MP",
@@ -67,19 +67,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 4
-      },
-      {
-        "stat": "DEF",
         "growthRef": 17
       },
       {
+        "stat": "DEF",
+        "growthRef": 4
+      },
+      {
         "stat": "AGL",
-        "growthRef": 8
+        "growthRef": 17
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 8
       }
     ]
   },
@@ -101,7 +101,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "MP",
@@ -113,15 +113,15 @@
       },
       {
         "stat": "DEF",
-        "growthRef": 24
+        "growthRef": 11
       },
       {
         "stat": "AGL",
-        "growthRef": 8
+        "growthRef": 24
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 8
       }
     ]
   },
@@ -143,27 +143,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "MP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "ATK",
-        "growthRef": 14
+        "growthRef": 8
       },
       {
         "stat": "DEF",
-        "growthRef": 17
+        "growthRef": 14
       },
       {
         "stat": "AGL",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 17
       }
     ]
   },
@@ -185,15 +185,15 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 10
       },
       {
         "stat": "ATK",
-        "growthRef": 20
+        "growthRef": 17
       },
       {
         "stat": "DEF",
@@ -201,11 +201,11 @@
       },
       {
         "stat": "AGL",
-        "growthRef": 8
+        "growthRef": 20
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 8
       }
     ]
   },
@@ -227,7 +227,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "MP",
@@ -235,19 +235,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 14
+        "growthRef": 15
       },
       {
         "stat": "DEF",
-        "growthRef": 20
+        "growthRef": 14
       },
       {
         "stat": "AGL",
-        "growthRef": 4
+        "growthRef": 20
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 14
       }
     ]
   },
@@ -269,7 +269,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "MP",
@@ -277,19 +277,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 8
+        "growthRef": 17
       },
       {
         "stat": "DEF",
-        "growthRef": 14
+        "growthRef": 8
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 14
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 13
       }
     ]
   },
@@ -311,27 +311,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 10
       },
       {
         "stat": "ATK",
-        "growthRef": 19
-      },
-      {
-        "stat": "DEF",
         "growthRef": 14
       },
       {
+        "stat": "DEF",
+        "growthRef": 19
+      },
+      {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 14
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 13
       }
     ]
   },
@@ -353,27 +353,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 2
+        "growthRef": 22
       },
       {
         "stat": "MP",
-        "growthRef": 1
-      },
-      {
-        "stat": "ATK",
-        "growthRef": 17
-      },
-      {
-        "stat": "DEF",
         "growthRef": 11
       },
       {
+        "stat": "ATK",
+        "growthRef": 14
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 17
+      },
+      {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 11
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 13
       }
     ]
   },
@@ -395,11 +395,11 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "MP",
-        "growthRef": 5
+        "growthRef": 15
       },
       {
         "stat": "ATK",
@@ -407,15 +407,15 @@
       },
       {
         "stat": "DEF",
-        "growthRef": 20
+        "growthRef": 11
       },
       {
         "stat": "AGL",
-        "growthRef": 8
+        "growthRef": 20
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 18
       }
     ]
   },
@@ -437,7 +437,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 5
+        "growthRef": 25
       },
       {
         "stat": "MP",
@@ -445,19 +445,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 13
+        "growthRef": 18
       },
       {
         "stat": "DEF",
-        "growthRef": 20
+        "growthRef": 13
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 20
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 13
       }
     ]
   },
@@ -479,27 +479,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 10
       },
       {
         "stat": "ATK",
-        "growthRef": 23
+        "growthRef": 14
       },
       {
         "stat": "DEF",
-        "growthRef": 16
+        "growthRef": 23
       },
       {
         "stat": "AGL",
-        "growthRef": 4
+        "growthRef": 16
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 14
       }
     ]
   },
@@ -521,27 +521,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 8
+        "growthRef": 18
       },
       {
         "stat": "MP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "ATK",
-        "growthRef": 15
+        "growthRef": 20
       },
       {
         "stat": "DEF",
-        "growthRef": 14
+        "growthRef": 15
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 14
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 13
       }
     ]
   },
@@ -563,7 +563,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 5
+        "growthRef": 15
       },
       {
         "stat": "MP",
@@ -571,19 +571,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 8
+        "growthRef": 14
       },
       {
         "stat": "DEF",
-        "growthRef": 21
+        "growthRef": 8
       },
       {
         "stat": "AGL",
-        "growthRef": 5
+        "growthRef": 21
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 15
       }
     ]
   },
@@ -605,27 +605,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 8
+        "growthRef": 18
       },
       {
         "stat": "MP",
-        "growthRef": 1
-      },
-      {
-        "stat": "ATK",
         "growthRef": 11
       },
       {
+        "stat": "ATK",
+        "growthRef": 18
+      },
+      {
         "stat": "DEF",
-        "growthRef": 20
+        "growthRef": 11
       },
       {
         "stat": "AGL",
-        "growthRef": 5
+        "growthRef": 20
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 15
       }
     ]
   },
@@ -647,27 +647,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 8
+        "growthRef": 18
       },
       {
         "stat": "MP",
-        "growthRef": 4
-      },
-      {
-        "stat": "ATK",
         "growthRef": 14
       },
       {
+        "stat": "ATK",
+        "growthRef": 15
+      },
+      {
         "stat": "DEF",
-        "growthRef": 20
+        "growthRef": 14
       },
       {
         "stat": "AGL",
-        "growthRef": 5
+        "growthRef": 20
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 15
       }
     ]
   },
@@ -693,23 +693,23 @@
       },
       {
         "stat": "MP",
-        "growthRef": 0
-      },
-      {
-        "stat": "ATK",
         "growthRef": 30
       },
       {
+        "stat": "ATK",
+        "growthRef": 11
+      },
+      {
         "stat": "DEF",
-        "growthRef": 31
+        "growthRef": 30
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 31
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 13
       }
     ]
   },
@@ -735,11 +735,11 @@
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 30
       },
       {
         "stat": "ATK",
-        "growthRef": 31
+        "growthRef": 14
       },
       {
         "stat": "DEF",
@@ -747,11 +747,11 @@
       },
       {
         "stat": "AGL",
-        "growthRef": 5
+        "growthRef": 31
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 15
       }
     ]
   },
@@ -777,11 +777,11 @@
       },
       {
         "stat": "MP",
-        "growthRef": 1
+        "growthRef": 31
       },
       {
         "stat": "ATK",
-        "growthRef": 31
+        "growthRef": 15
       },
       {
         "stat": "DEF",
@@ -789,11 +789,11 @@
       },
       {
         "stat": "AGL",
-        "growthRef": 8
+        "growthRef": 31
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 18
       }
     ]
   },
@@ -819,11 +819,11 @@
       },
       {
         "stat": "MP",
-        "growthRef": 1
+        "growthRef": 31
       },
       {
         "stat": "ATK",
-        "growthRef": 31
+        "growthRef": 19
       },
       {
         "stat": "DEF",
@@ -831,11 +831,11 @@
       },
       {
         "stat": "AGL",
-        "growthRef": 8
+        "growthRef": 31
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 18
       }
     ]
   },
@@ -857,7 +857,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 0
+        "growthRef": 10
       },
       {
         "stat": "MP",
@@ -865,11 +865,11 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 2
+        "growthRef": 17
       },
       {
         "stat": "DEF",
-        "growthRef": 5
+        "growthRef": 2
       },
       {
         "stat": "AGL",
@@ -877,7 +877,7 @@
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 5
       }
     ]
   },
@@ -899,27 +899,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 5
+        "growthRef": 15
       },
       {
         "stat": "MP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "ATK",
-        "growthRef": 6
+        "growthRef": 18
       },
       {
         "stat": "DEF",
-        "growthRef": 7
+        "growthRef": 6
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 7
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 13
       }
     ]
   },
@@ -941,27 +941,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "MP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "ATK",
-        "growthRef": 2
+        "growthRef": 18
       },
       {
         "stat": "DEF",
-        "growthRef": 20
+        "growthRef": 2
       },
       {
         "stat": "AGL",
-        "growthRef": 4
+        "growthRef": 20
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 4
       }
     ]
   },
@@ -983,27 +983,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "MP",
-        "growthRef": 5
+        "growthRef": 15
       },
       {
         "stat": "ATK",
-        "growthRef": 11
+        "growthRef": 13
       },
       {
         "stat": "DEF",
-        "growthRef": 7
+        "growthRef": 11
       },
       {
         "stat": "AGL",
-        "growthRef": 8
+        "growthRef": 7
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 18
       }
     ]
   },
@@ -1029,23 +1029,23 @@
       },
       {
         "stat": "MP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "ATK",
-        "growthRef": 16
+        "growthRef": 17
       },
       {
         "stat": "DEF",
-        "growthRef": 14
+        "growthRef": 16
       },
       {
         "stat": "AGL",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 4
       }
     ]
   },
@@ -1068,27 +1068,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 10
       },
       {
         "stat": "ATK",
-        "growthRef": 13
+        "growthRef": 19
       },
       {
         "stat": "DEF",
-        "growthRef": 5
+        "growthRef": 13
       },
       {
         "stat": "AGL",
-        "growthRef": 6
+        "growthRef": 5
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 16
       }
     ]
   },
@@ -1110,27 +1110,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 1
+        "growthRef": 21
       },
       {
         "stat": "MP",
-        "growthRef": 6
+        "growthRef": 16
       },
       {
         "stat": "ATK",
-        "growthRef": 13
+        "growthRef": 15
       },
       {
         "stat": "DEF",
-        "growthRef": 7
+        "growthRef": 13
       },
       {
         "stat": "AGL",
-        "growthRef": 1
+        "growthRef": 7
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 1
       }
     ]
   },
@@ -1160,19 +1160,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 6
+        "growthRef": 23
       },
       {
         "stat": "DEF",
-        "growthRef": 1
+        "growthRef": 6
       },
       {
         "stat": "AGL",
-        "growthRef": 5
+        "growthRef": 1
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 5
       }
     ]
   },
@@ -1194,7 +1194,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "MP",
@@ -1202,19 +1202,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 16
+        "growthRef": 20
       },
       {
         "stat": "DEF",
-        "growthRef": 7
+        "growthRef": 16
       },
       {
         "stat": "AGL",
-        "growthRef": 4
+        "growthRef": 7
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 4
       }
     ]
   },
@@ -1236,7 +1236,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "MP",
@@ -1244,19 +1244,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 14
+        "growthRef": 17
       },
       {
         "stat": "DEF",
-        "growthRef": 18
+        "growthRef": 14
       },
       {
         "stat": "AGL",
-        "growthRef": 0
+        "growthRef": 18
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 10
       }
     ]
   },
@@ -1278,7 +1278,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 9
+        "growthRef": 19
       },
       {
         "stat": "MP",
@@ -1286,19 +1286,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 5
+        "growthRef": 21
       },
       {
         "stat": "DEF",
-        "growthRef": 8
+        "growthRef": 5
       },
       {
         "stat": "AGL",
-        "growthRef": 0
+        "growthRef": 8
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 0
       }
     ]
   },
@@ -1320,7 +1320,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "MP",
@@ -1328,19 +1328,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 16
+        "growthRef": 17
       },
       {
         "stat": "DEF",
-        "growthRef": 15
+        "growthRef": 16
       },
       {
         "stat": "AGL",
-        "growthRef": 5
+        "growthRef": 15
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 5
       }
     ]
   },
@@ -1362,27 +1362,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "MP",
-        "growthRef": 8
+        "growthRef": 18
       },
       {
         "stat": "ATK",
-        "growthRef": 6
+        "growthRef": 11
       },
       {
         "stat": "DEF",
-        "growthRef": 8
+        "growthRef": 6
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 8
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 13
       }
     ]
   },
@@ -1404,11 +1404,11 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "MP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "ATK",
@@ -1416,15 +1416,15 @@
       },
       {
         "stat": "DEF",
-        "growthRef": 13
+        "growthRef": 17
       },
       {
         "stat": "AGL",
-        "growthRef": 5
+        "growthRef": 13
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 5
       }
     ]
   },
@@ -1446,27 +1446,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 1
+        "growthRef": 21
       },
       {
         "stat": "MP",
-        "growthRef": 5
+        "growthRef": 15
       },
       {
         "stat": "ATK",
-        "growthRef": 17
-      },
-      {
-        "stat": "DEF",
         "growthRef": 19
       },
       {
+        "stat": "DEF",
+        "growthRef": 17
+      },
+      {
         "stat": "AGL",
-        "growthRef": 2
+        "growthRef": 19
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 12
       }
     ]
   },
@@ -1488,7 +1488,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 8
+        "growthRef": 18
       },
       {
         "stat": "MP",
@@ -1496,19 +1496,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 13
+        "growthRef": 16
       },
       {
         "stat": "DEF",
-        "growthRef": 19
+        "growthRef": 13
       },
       {
         "stat": "AGL",
-        "growthRef": 1
+        "growthRef": 19
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 11
       }
     ]
   },
@@ -1530,7 +1530,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 0
+        "growthRef": 20
       },
       {
         "stat": "MP",
@@ -1538,19 +1538,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 24
+        "growthRef": 19
       },
       {
         "stat": "DEF",
-        "growthRef": 1
+        "growthRef": 24
       },
       {
         "stat": "AGL",
-        "growthRef": 2
+        "growthRef": 1
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 2
       }
     ]
   },
@@ -1572,7 +1572,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 1
+        "growthRef": 21
       },
       {
         "stat": "MP",
@@ -1580,19 +1580,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 14
+        "growthRef": 23
       },
       {
         "stat": "DEF",
-        "growthRef": 16
+        "growthRef": 14
       },
       {
         "stat": "AGL",
-        "growthRef": 1
+        "growthRef": 16
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 11
       }
     ]
   },
@@ -1614,7 +1614,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "MP",
@@ -1622,19 +1622,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 5
+        "growthRef": 15
       },
       {
         "stat": "DEF",
-        "growthRef": 19
+        "growthRef": 5
       },
       {
         "stat": "AGL",
-        "growthRef": 8
+        "growthRef": 19
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 8
       }
     ]
   },
@@ -1656,7 +1656,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 5
+        "growthRef": 15
       },
       {
         "stat": "MP",
@@ -1664,19 +1664,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 17
+        "growthRef": 20
       },
       {
         "stat": "DEF",
-        "growthRef": 14
+        "growthRef": 17
       },
       {
         "stat": "AGL",
-        "growthRef": 1
+        "growthRef": 14
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 11
       }
     ]
   },
@@ -1697,27 +1697,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 5
+        "growthRef": 25
       },
       {
         "stat": "MP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "ATK",
-        "growthRef": 22
+        "growthRef": 20
       },
       {
         "stat": "DEF",
-        "growthRef": 18
+        "growthRef": 22
       },
       {
         "stat": "AGL",
-        "growthRef": 4
+        "growthRef": 18
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 14
       }
     ]
   },
@@ -1739,27 +1739,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 24
       },
       {
         "stat": "MP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "ATK",
-        "growthRef": 21
+        "growthRef": 24
       },
       {
         "stat": "DEF",
-        "growthRef": 11
+        "growthRef": 21
       },
       {
         "stat": "AGL",
-        "growthRef": 8
+        "growthRef": 11
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 8
       }
     ]
   },
@@ -1781,27 +1781,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 3
+        "growthRef": 23
       },
       {
         "stat": "MP",
-        "growthRef": 6
+        "growthRef": 16
       },
       {
         "stat": "ATK",
-        "growthRef": 20
+        "growthRef": 26
       },
       {
         "stat": "DEF",
-        "growthRef": 17
+        "growthRef": 20
       },
       {
         "stat": "AGL",
-        "growthRef": 6
+        "growthRef": 17
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 16
       }
     ]
   },
@@ -1823,27 +1823,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 5
+        "growthRef": 15
       },
       {
         "stat": "MP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "ATK",
-        "growthRef": 14
+        "growthRef": 20
       },
       {
         "stat": "DEF",
-        "growthRef": 18
+        "growthRef": 14
       },
       {
         "stat": "AGL",
-        "growthRef": 8
+        "growthRef": 18
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 8
       }
     ]
   },
@@ -1865,27 +1865,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 6
+        "growthRef": 26
       },
       {
         "stat": "MP",
-        "growthRef": 5
+        "growthRef": 25
       },
       {
         "stat": "ATK",
-        "growthRef": 24
+        "growthRef": 28
       },
       {
         "stat": "DEF",
-        "growthRef": 20
+        "growthRef": 24
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 20
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 23
       }
     ]
   },
@@ -1907,7 +1907,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "MP",
@@ -1915,19 +1915,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 12
+        "growthRef": 15
       },
       {
         "stat": "DEF",
-        "growthRef": 11
+        "growthRef": 12
       },
       {
         "stat": "AGL",
-        "growthRef": 6
+        "growthRef": 11
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 16
       }
     ]
   },
@@ -1949,7 +1949,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 8
+        "growthRef": 18
       },
       {
         "stat": "MP",
@@ -1957,19 +1957,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 9
+        "growthRef": 14
       },
       {
         "stat": "DEF",
-        "growthRef": 15
+        "growthRef": 9
       },
       {
         "stat": "AGL",
-        "growthRef": 4
+        "growthRef": 15
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 4
       }
     ]
   },
@@ -1991,27 +1991,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 10
       },
       {
         "stat": "ATK",
-        "growthRef": 8
+        "growthRef": 13
       },
       {
         "stat": "DEF",
-        "growthRef": 18
+        "growthRef": 8
       },
       {
         "stat": "AGL",
-        "growthRef": 4
+        "growthRef": 18
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 14
       }
     ]
   },
@@ -2033,11 +2033,11 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "MP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "ATK",
@@ -2045,15 +2045,15 @@
       },
       {
         "stat": "DEF",
-        "growthRef": 19
+        "growthRef": 8
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 19
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 13
       }
     ]
   },
@@ -2075,7 +2075,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 6
+        "growthRef": 16
       },
       {
         "stat": "MP",
@@ -2083,19 +2083,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 17
+        "growthRef": 9
       },
       {
         "stat": "DEF",
-        "growthRef": 0
+        "growthRef": 17
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 0
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 13
       }
     ]
   },
@@ -2117,7 +2117,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 24
       },
       {
         "stat": "MP",
@@ -2125,19 +2125,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 13
+        "growthRef": 26
       },
       {
         "stat": "DEF",
-        "growthRef": 7
+        "growthRef": 13
       },
       {
         "stat": "AGL",
-        "growthRef": 1
+        "growthRef": 7
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 1
       }
     ]
   },
@@ -2159,27 +2159,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 10
       },
       {
         "stat": "ATK",
-        "growthRef": 8
+        "growthRef": 11
       },
       {
         "stat": "DEF",
-        "growthRef": 16
+        "growthRef": 8
       },
       {
         "stat": "AGL",
-        "growthRef": 2
+        "growthRef": 16
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 2
       }
     ]
   },
@@ -2201,15 +2201,15 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 20
       },
       {
         "stat": "ATK",
-        "growthRef": 15
+        "growthRef": 13
       },
       {
         "stat": "DEF",
@@ -2217,11 +2217,11 @@
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 15
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 13
       }
     ]
   },
@@ -2243,7 +2243,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "MP",
@@ -2251,19 +2251,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 11
+        "growthRef": 17
       },
       {
         "stat": "DEF",
-        "growthRef": 9
+        "growthRef": 11
       },
       {
         "stat": "AGL",
-        "growthRef": 1
+        "growthRef": 9
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 11
       }
     ]
   },
@@ -2285,7 +2285,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 8
+        "growthRef": 18
       },
       {
         "stat": "MP",
@@ -2293,19 +2293,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 12
+        "growthRef": 13
       },
       {
         "stat": "DEF",
-        "growthRef": 11
+        "growthRef": 12
       },
       {
         "stat": "AGL",
-        "growthRef": 7
+        "growthRef": 11
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 7
       }
     ]
   },
@@ -2327,7 +2327,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 8
+        "growthRef": 18
       },
       {
         "stat": "MP",
@@ -2335,19 +2335,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 23
+        "growthRef": 17
       },
       {
         "stat": "DEF",
-        "growthRef": 2
+        "growthRef": 23
       },
       {
         "stat": "AGL",
-        "growthRef": 1
+        "growthRef": 2
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 11
       }
     ]
   },
@@ -2369,27 +2369,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
-      },
-      {
-        "stat": "MP",
-        "growthRef": 1
-      },
-      {
-        "stat": "ATK",
         "growthRef": 14
       },
       {
+        "stat": "MP",
+        "growthRef": 11
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 16
+      },
+      {
         "stat": "DEF",
-        "growthRef": 20
+        "growthRef": 14
       },
       {
         "stat": "AGL",
-        "growthRef": 8
+        "growthRef": 20
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 8
       }
     ]
   },
@@ -2411,27 +2411,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 7
-      },
-      {
-        "stat": "MP",
-        "growthRef": 9
-      },
-      {
-        "stat": "ATK",
-        "growthRef": 11
-      },
-      {
-        "stat": "DEF",
         "growthRef": 17
       },
       {
+        "stat": "MP",
+        "growthRef": 19
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 17
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 11
+      },
+      {
         "stat": "AGL",
-        "growthRef": 0
+        "growthRef": 17
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 10
       }
     ]
   },
@@ -2453,7 +2453,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 0
+        "growthRef": 20
       },
       {
         "stat": "MP",
@@ -2461,19 +2461,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 7
+        "growthRef": 27
       },
       {
         "stat": "DEF",
-        "growthRef": 9
+        "growthRef": 7
       },
       {
         "stat": "AGL",
-        "growthRef": 1
+        "growthRef": 9
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 1
       }
     ]
   },
@@ -2495,27 +2495,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 8
+        "growthRef": 18
       },
       {
         "stat": "MP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "ATK",
-        "growthRef": 9
+        "growthRef": 15
       },
       {
         "stat": "DEF",
-        "growthRef": 10
+        "growthRef": 9
       },
       {
         "stat": "AGL",
-        "growthRef": 8
+        "growthRef": 10
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 8
       }
     ]
   },
@@ -2537,27 +2537,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "MP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "ATK",
-        "growthRef": 9
+        "growthRef": 17
       },
       {
         "stat": "DEF",
-        "growthRef": 8
+        "growthRef": 9
       },
       {
         "stat": "AGL",
-        "growthRef": 1
+        "growthRef": 8
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 11
       }
     ]
   },
@@ -2579,7 +2579,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 2
+        "growthRef": 12
       },
       {
         "stat": "MP",
@@ -2587,19 +2587,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 14
+        "growthRef": 13
       },
       {
         "stat": "DEF",
-        "growthRef": 17
+        "growthRef": 14
       },
       {
         "stat": "AGL",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 7
       }
     ]
   },
@@ -2621,27 +2621,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 9
+        "growthRef": 19
       },
       {
         "stat": "MP",
-        "growthRef": 1
+        "growthRef": 21
       },
       {
         "stat": "ATK",
-        "growthRef": 13
+        "growthRef": 14
       },
       {
         "stat": "DEF",
-        "growthRef": 12
+        "growthRef": 13
       },
       {
         "stat": "AGL",
-        "growthRef": 5
+        "growthRef": 12
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 25
       }
     ]
   },
@@ -2663,7 +2663,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 9
+        "growthRef": 19
       },
       {
         "stat": "MP",
@@ -2671,19 +2671,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 13
-      },
-      {
-        "stat": "DEF",
         "growthRef": 17
       },
       {
+        "stat": "DEF",
+        "growthRef": 13
+      },
+      {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 17
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 3
       }
     ]
   },
@@ -2705,7 +2705,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "MP",
@@ -2713,19 +2713,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 10
+        "growthRef": 20
       },
       {
         "stat": "DEF",
-        "growthRef": 8
+        "growthRef": 10
       },
       {
         "stat": "AGL",
-        "growthRef": 4
+        "growthRef": 8
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 4
       }
     ]
   },
@@ -2747,7 +2747,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "MP",
@@ -2755,19 +2755,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 17
+        "growthRef": 21
       },
       {
         "stat": "DEF",
-        "growthRef": 14
+        "growthRef": 17
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 14
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 13
       }
     ]
   },
@@ -2789,27 +2789,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 0
+        "growthRef": 20
       },
       {
         "stat": "MP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "ATK",
-        "growthRef": 23
+        "growthRef": 24
       },
       {
         "stat": "DEF",
-        "growthRef": 17
+        "growthRef": 23
       },
       {
         "stat": "AGL",
-        "growthRef": 4
+        "growthRef": 17
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 14
       }
     ]
   },
@@ -2831,7 +2831,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "MP",
@@ -2839,19 +2839,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 18
+        "growthRef": 19
       },
       {
         "stat": "DEF",
-        "growthRef": 10
+        "growthRef": 18
       },
       {
         "stat": "AGL",
-        "growthRef": 2
+        "growthRef": 10
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 12
       }
     ]
   },
@@ -2873,7 +2873,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 5
+        "growthRef": 15
       },
       {
         "stat": "MP",
@@ -2881,19 +2881,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 14
+        "growthRef": 18
       },
       {
         "stat": "DEF",
-        "growthRef": 17
+        "growthRef": 14
       },
       {
         "stat": "AGL",
-        "growthRef": 1
+        "growthRef": 17
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 11
       }
     ]
   },
@@ -2915,7 +2915,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "MP",
@@ -2923,19 +2923,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 11
+        "growthRef": 14
       },
       {
         "stat": "DEF",
-        "growthRef": 7
+        "growthRef": 11
       },
       {
         "stat": "AGL",
-        "growthRef": 9
+        "growthRef": 7
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 9
       }
     ]
   },
@@ -2957,27 +2957,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "MP",
-        "growthRef": 2
+        "growthRef": 12
       },
       {
         "stat": "ATK",
-        "growthRef": 8
+        "growthRef": 14
       },
       {
         "stat": "DEF",
-        "growthRef": 18
+        "growthRef": 8
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 18
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 13
       }
     ]
   },
@@ -2999,27 +2999,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "MP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "ATK",
-        "growthRef": 11
+        "growthRef": 19
       },
       {
         "stat": "DEF",
-        "growthRef": 16
+        "growthRef": 11
       },
       {
         "stat": "AGL",
-        "growthRef": 0
+        "growthRef": 16
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 20
       }
     ]
   },
@@ -3041,7 +3041,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "MP",
@@ -3049,19 +3049,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 9
+        "growthRef": 17
       },
       {
         "stat": "DEF",
-        "growthRef": 6
+        "growthRef": 9
       },
       {
         "stat": "AGL",
-        "growthRef": 4
+        "growthRef": 6
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 4
       }
     ]
   },
@@ -3088,23 +3088,23 @@
       },
       {
         "stat": "MP",
-        "growthRef": 8
+        "growthRef": 18
       },
       {
         "stat": "ATK",
-        "growthRef": 3
+        "growthRef": 12
       },
       {
         "stat": "DEF",
-        "growthRef": 21
+        "growthRef": 3
       },
       {
         "stat": "AGL",
-        "growthRef": 9
+        "growthRef": 21
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 19
       }
     ]
   },
@@ -3126,27 +3126,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "MP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "ATK",
-        "growthRef": 12
+        "growthRef": 9
       },
       {
         "stat": "DEF",
-        "growthRef": 18
+        "growthRef": 12
       },
       {
         "stat": "AGL",
-        "growthRef": 7
+        "growthRef": 18
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 7
       }
     ]
   },
@@ -3176,19 +3176,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 14
+        "growthRef": 20
       },
       {
         "stat": "DEF",
-        "growthRef": 23
+        "growthRef": 14
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 23
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 13
       }
     ]
   },
@@ -3213,23 +3213,23 @@
       },
       {
         "stat": "MP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "ATK",
-        "growthRef": 12
+        "growthRef": 17
       },
       {
         "stat": "DEF",
-        "growthRef": 18
+        "growthRef": 12
       },
       {
         "stat": "AGL",
-        "growthRef": 5
+        "growthRef": 18
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 5
       }
     ]
   },
@@ -3251,27 +3251,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 2
+        "growthRef": 12
       },
       {
         "stat": "MP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "ATK",
-        "growthRef": 15
+        "growthRef": 8
       },
       {
         "stat": "DEF",
-        "growthRef": 22
+        "growthRef": 15
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 22
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 13
       }
     ]
   },
@@ -3293,7 +3293,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "MP",
@@ -3301,19 +3301,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 13
+        "growthRef": 8
       },
       {
         "stat": "DEF",
-        "growthRef": 17
+        "growthRef": 13
       },
       {
         "stat": "AGL",
-        "growthRef": 1
+        "growthRef": 17
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 11
       }
     ]
   },
@@ -3343,19 +3343,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 12
+        "growthRef": 14
       },
       {
         "stat": "DEF",
-        "growthRef": 17
+        "growthRef": 12
       },
       {
         "stat": "AGL",
-        "growthRef": 8
+        "growthRef": 17
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 8
       }
     ]
   },
@@ -3377,11 +3377,11 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 6
+        "growthRef": 16
       },
       {
         "stat": "MP",
-        "growthRef": 2
+        "growthRef": 12
       },
       {
         "stat": "ATK",
@@ -3389,15 +3389,15 @@
       },
       {
         "stat": "DEF",
-        "growthRef": 14
+        "growthRef": 20
       },
       {
         "stat": "AGL",
-        "growthRef": 1
+        "growthRef": 14
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 11
       }
     ]
   },
@@ -3419,27 +3419,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 5
+        "growthRef": 15
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 10
       },
       {
         "stat": "ATK",
-        "growthRef": 13
+        "growthRef": 21
       },
       {
         "stat": "DEF",
-        "growthRef": 11
+        "growthRef": 13
       },
       {
         "stat": "AGL",
-        "growthRef": 8
+        "growthRef": 11
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 18
       }
     ]
   },
@@ -3461,7 +3461,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "MP",
@@ -3469,19 +3469,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 15
+        "growthRef": 17
       },
       {
         "stat": "DEF",
-        "growthRef": 20
+        "growthRef": 15
       },
       {
         "stat": "AGL",
-        "growthRef": 8
+        "growthRef": 20
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 8
       }
     ]
   },
@@ -3503,27 +3503,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "MP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "ATK",
-        "growthRef": 12
+        "growthRef": 18
       },
       {
         "stat": "DEF",
-        "growthRef": 17
+        "growthRef": 12
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 17
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 13
       }
     ]
   },
@@ -3545,7 +3545,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 0
+        "growthRef": 20
       },
       {
         "stat": "MP",
@@ -3553,19 +3553,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 17
+        "growthRef": 11
       },
       {
         "stat": "DEF",
-        "growthRef": 19
+        "growthRef": 17
       },
       {
         "stat": "AGL",
-        "growthRef": 1
+        "growthRef": 19
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 11
       }
     ]
   },
@@ -3587,27 +3587,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 6
+        "growthRef": 16
       },
       {
         "stat": "MP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "ATK",
-        "growthRef": 8
-      },
-      {
-        "stat": "DEF",
         "growthRef": 19
       },
       {
+        "stat": "DEF",
+        "growthRef": 8
+      },
+      {
         "stat": "AGL",
-        "growthRef": 2
+        "growthRef": 19
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 12
       }
     ]
   },
@@ -3629,7 +3629,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 0
+        "growthRef": 20
       },
       {
         "stat": "MP",
@@ -3637,19 +3637,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 17
+        "growthRef": 19
       },
       {
         "stat": "DEF",
-        "growthRef": 22
+        "growthRef": 17
       },
       {
         "stat": "AGL",
-        "growthRef": 2
+        "growthRef": 22
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 12
       }
     ]
   },
@@ -3671,27 +3671,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 7
+        "growthRef": 27
       },
       {
         "stat": "MP",
-        "growthRef": 9
+        "growthRef": 19
       },
       {
         "stat": "ATK",
-        "growthRef": 20
+        "growthRef": 12
       },
       {
         "stat": "DEF",
-        "growthRef": 23
+        "growthRef": 20
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 23
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 23
       }
     ]
   },
@@ -3713,27 +3713,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 20
       },
       {
         "stat": "ATK",
-        "growthRef": 9
+        "growthRef": 8
       },
       {
         "stat": "DEF",
-        "growthRef": 16
+        "growthRef": 9
       },
       {
         "stat": "AGL",
-        "growthRef": 0
+        "growthRef": 16
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 20
       }
     ]
   },
@@ -3755,27 +3755,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 5
+        "growthRef": 25
       },
       {
         "stat": "MP",
-        "growthRef": 7
+        "growthRef": 27
       },
       {
         "stat": "ATK",
-        "growthRef": 24
+        "growthRef": 15
       },
       {
         "stat": "DEF",
-        "growthRef": 18
+        "growthRef": 24
       },
       {
         "stat": "AGL",
-        "growthRef": 4
+        "growthRef": 18
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 24
       }
     ]
   },
@@ -3797,27 +3797,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 5
+        "growthRef": 15
       },
       {
         "stat": "MP",
-        "growthRef": 4
+        "growthRef": 24
       },
       {
         "stat": "ATK",
-        "growthRef": 13
+        "growthRef": 11
       },
       {
         "stat": "DEF",
-        "growthRef": 6
+        "growthRef": 13
       },
       {
         "stat": "AGL",
-        "growthRef": 8
+        "growthRef": 6
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 18
       }
     ]
   },
@@ -3839,27 +3839,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "MP",
-        "growthRef": 6
+        "growthRef": 26
       },
       {
         "stat": "ATK",
-        "growthRef": 12
+        "growthRef": 10
       },
       {
         "stat": "DEF",
-        "growthRef": 5
+        "growthRef": 12
       },
       {
         "stat": "AGL",
-        "growthRef": 7
+        "growthRef": 5
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 17
       }
     ]
   },
@@ -3881,27 +3881,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 20
       },
       {
         "stat": "ATK",
-        "growthRef": 9
+        "growthRef": 6
       },
       {
         "stat": "DEF",
-        "growthRef": 2
-      },
-      {
-        "stat": "AGL",
         "growthRef": 9
       },
       {
+        "stat": "AGL",
+        "growthRef": 2
+      },
+      {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 19
       }
     ]
   },
@@ -3923,27 +3923,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 2
+        "growthRef": 12
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 20
       },
       {
         "stat": "ATK",
-        "growthRef": 11
+        "growthRef": 6
       },
       {
         "stat": "DEF",
-        "growthRef": 14
+        "growthRef": 11
       },
       {
         "stat": "AGL",
-        "growthRef": 7
+        "growthRef": 14
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 7
       }
     ]
   },
@@ -3965,27 +3965,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 8
+        "growthRef": 18
       },
       {
         "stat": "MP",
-        "growthRef": 8
+        "growthRef": 18
       },
       {
         "stat": "ATK",
-        "growthRef": 15
+        "growthRef": 12
       },
       {
         "stat": "DEF",
-        "growthRef": 9
+        "growthRef": 15
       },
       {
         "stat": "AGL",
-        "growthRef": 5
+        "growthRef": 9
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 5
       }
     ]
   },
@@ -4007,27 +4007,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 6
+        "growthRef": 16
       },
       {
         "stat": "MP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "ATK",
-        "growthRef": 6
+        "growthRef": 9
       },
       {
         "stat": "DEF",
-        "growthRef": 2
+        "growthRef": 6
       },
       {
         "stat": "AGL",
-        "growthRef": 4
+        "growthRef": 2
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 14
       }
     ]
   },
@@ -4050,27 +4050,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "MP",
-        "growthRef": 8
+        "growthRef": 18
       },
       {
         "stat": "ATK",
-        "growthRef": 9
+        "growthRef": 8
       },
       {
         "stat": "DEF",
-        "growthRef": 13
+        "growthRef": 9
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 13
       }
     ]
   },
@@ -4092,27 +4092,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 2
-      },
-      {
-        "stat": "MP",
-        "growthRef": 4
-      },
-      {
-        "stat": "ATK",
-        "growthRef": 17
-      },
-      {
-        "stat": "DEF",
         "growthRef": 12
       },
       {
+        "stat": "MP",
+        "growthRef": 24
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 8
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 17
+      },
+      {
         "stat": "AGL",
-        "growthRef": 0
+        "growthRef": 12
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 10
       }
     ]
   },
@@ -4134,27 +4134,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "MP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "ATK",
-        "growthRef": 2
-      },
-      {
-        "stat": "DEF",
-        "growthRef": 9
-      },
-      {
-        "stat": "AGL",
         "growthRef": 4
       },
       {
+        "stat": "DEF",
+        "growthRef": 2
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 9
+      },
+      {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 14
       }
     ]
   },
@@ -4176,27 +4176,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 20
       },
       {
         "stat": "ATK",
-        "growthRef": 11
+        "growthRef": 14
       },
       {
         "stat": "DEF",
-        "growthRef": 3
+        "growthRef": 11
       },
       {
         "stat": "AGL",
-        "growthRef": 6
+        "growthRef": 3
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 16
       }
     ]
   },
@@ -4218,27 +4218,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "MP",
-        "growthRef": 1
+        "growthRef": 21
       },
       {
         "stat": "ATK",
-        "growthRef": 6
+        "growthRef": 7
       },
       {
         "stat": "DEF",
-        "growthRef": 20
+        "growthRef": 6
       },
       {
         "stat": "AGL",
-        "growthRef": 1
+        "growthRef": 20
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 11
       }
     ]
   },
@@ -4260,27 +4260,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 5
+        "growthRef": 15
       },
       {
         "stat": "MP",
-        "growthRef": 8
+        "growthRef": 18
       },
       {
         "stat": "ATK",
-        "growthRef": 3
+        "growthRef": 8
       },
       {
         "stat": "DEF",
-        "growthRef": 12
+        "growthRef": 3
       },
       {
         "stat": "AGL",
-        "growthRef": 5
+        "growthRef": 12
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 15
       }
     ]
   },
@@ -4302,27 +4302,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 2
+        "growthRef": 12
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 20
       },
       {
         "stat": "ATK",
-        "growthRef": 8
+        "growthRef": 11
       },
       {
         "stat": "DEF",
-        "growthRef": 10
+        "growthRef": 8
       },
       {
         "stat": "AGL",
-        "growthRef": 7
+        "growthRef": 10
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 17
       }
     ]
   },
@@ -4344,27 +4344,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 9
+        "growthRef": 19
       },
       {
         "stat": "MP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "ATK",
-        "growthRef": 10
+        "growthRef": 7
       },
       {
         "stat": "DEF",
-        "growthRef": 15
+        "growthRef": 10
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 15
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 23
       }
     ]
   },
@@ -4386,27 +4386,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
-      },
-      {
-        "stat": "MP",
-        "growthRef": 5
-      },
-      {
-        "stat": "ATK",
         "growthRef": 14
       },
       {
-        "stat": "DEF",
+        "stat": "MP",
         "growthRef": 15
       },
       {
+        "stat": "ATK",
+        "growthRef": 12
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 14
+      },
+      {
         "stat": "AGL",
-        "growthRef": 9
+        "growthRef": 15
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 9
       }
     ]
   },
@@ -4432,23 +4432,23 @@
       },
       {
         "stat": "MP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "ATK",
-        "growthRef": 5
+        "growthRef": 8
       },
       {
         "stat": "DEF",
-        "growthRef": 1
+        "growthRef": 5
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 1
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 3
       }
     ]
   },
@@ -4469,27 +4469,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "MP",
-        "growthRef": 2
+        "growthRef": 12
       },
       {
         "stat": "ATK",
-        "growthRef": 7
+        "growthRef": 19
       },
       {
         "stat": "DEF",
-        "growthRef": 10
+        "growthRef": 7
       },
       {
         "stat": "AGL",
-        "growthRef": 6
+        "growthRef": 10
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 6
       }
     ]
   },
@@ -4511,27 +4511,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "MP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "ATK",
-        "growthRef": 13
+        "growthRef": 20
       },
       {
         "stat": "DEF",
-        "growthRef": 10
+        "growthRef": 13
       },
       {
         "stat": "AGL",
-        "growthRef": 6
+        "growthRef": 10
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 16
       }
     ]
   },
@@ -4553,27 +4553,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 24
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 30
       },
       {
         "stat": "ATK",
-        "growthRef": 21
+        "growthRef": 23
       },
       {
         "stat": "DEF",
-        "growthRef": 18
+        "growthRef": 21
       },
       {
         "stat": "AGL",
-        "growthRef": 8
+        "growthRef": 18
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 18
       }
     ]
   },
@@ -4595,27 +4595,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 0
+        "growthRef": 10
       },
       {
         "stat": "MP",
-        "growthRef": 7
+        "growthRef": 27
       },
       {
         "stat": "ATK",
-        "growthRef": 14
+        "growthRef": 11
       },
       {
         "stat": "DEF",
-        "growthRef": 24
+        "growthRef": 14
       },
       {
         "stat": "AGL",
-        "growthRef": 0
+        "growthRef": 24
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 30
       }
     ]
   },
@@ -4637,7 +4637,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "MP",
@@ -4645,19 +4645,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 9
+        "growthRef": 14
       },
       {
         "stat": "DEF",
-        "growthRef": 11
+        "growthRef": 9
       },
       {
         "stat": "AGL",
-        "growthRef": 7
+        "growthRef": 11
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 7
       }
     ]
   },
@@ -4679,7 +4679,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "MP",
@@ -4687,19 +4687,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 14
-      },
-      {
-        "stat": "DEF",
         "growthRef": 11
       },
       {
+        "stat": "DEF",
+        "growthRef": 14
+      },
+      {
         "stat": "AGL",
-        "growthRef": 9
+        "growthRef": 11
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 9
       }
     ]
   },
@@ -4725,23 +4725,23 @@
       },
       {
         "stat": "MP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "ATK",
-        "growthRef": 18
+        "growthRef": 14
       },
       {
         "stat": "DEF",
-        "growthRef": 8
+        "growthRef": 18
       },
       {
         "stat": "AGL",
-        "growthRef": 7
+        "growthRef": 8
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 7
       }
     ]
   },
@@ -4763,7 +4763,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "MP",
@@ -4771,19 +4771,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 7
+        "growthRef": 13
       },
       {
         "stat": "DEF",
-        "growthRef": 12
+        "growthRef": 7
       },
       {
         "stat": "AGL",
-        "growthRef": 8
+        "growthRef": 12
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 8
       }
     ]
   },
@@ -4805,27 +4805,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "MP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "ATK",
-        "growthRef": 12
+        "growthRef": 10
       },
       {
         "stat": "DEF",
-        "growthRef": 5
+        "growthRef": 12
       },
       {
         "stat": "AGL",
-        "growthRef": 9
+        "growthRef": 5
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 19
       }
     ]
   },
@@ -4848,7 +4848,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "MP",
@@ -4856,19 +4856,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 8
+        "growthRef": 16
       },
       {
         "stat": "DEF",
-        "growthRef": 13
+        "growthRef": 8
       },
       {
         "stat": "AGL",
-        "growthRef": 4
+        "growthRef": 13
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 14
       }
     ]
   },
@@ -4890,7 +4890,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 2
+        "growthRef": 12
       },
       {
         "stat": "MP",
@@ -4902,15 +4902,15 @@
       },
       {
         "stat": "DEF",
-        "growthRef": 4
+        "growthRef": 9
       },
       {
         "stat": "AGL",
-        "growthRef": 1
+        "growthRef": 4
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 1
       }
     ]
   },
@@ -4932,7 +4932,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "MP",
@@ -4940,19 +4940,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 20
+        "growthRef": 16
       },
       {
         "stat": "DEF",
-        "growthRef": 9
+        "growthRef": 20
       },
       {
         "stat": "AGL",
-        "growthRef": 7
+        "growthRef": 9
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 7
       }
     ]
   },
@@ -4982,19 +4982,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 17
+        "growthRef": 11
       },
       {
         "stat": "DEF",
-        "growthRef": 13
+        "growthRef": 17
       },
       {
         "stat": "AGL",
-        "growthRef": 1
+        "growthRef": 13
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 1
       }
     ]
   },
@@ -5016,7 +5016,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "MP",
@@ -5024,7 +5024,7 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 14
+        "growthRef": 8
       },
       {
         "stat": "DEF",
@@ -5032,11 +5032,11 @@
       },
       {
         "stat": "AGL",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 4
       }
     ]
   },
@@ -5058,27 +5058,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 2
+        "growthRef": 12
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 10
       },
       {
         "stat": "ATK",
-        "growthRef": 11
+        "growthRef": 16
       },
       {
         "stat": "DEF",
-        "growthRef": 14
+        "growthRef": 11
       },
       {
         "stat": "AGL",
-        "growthRef": 5
+        "growthRef": 14
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 5
       }
     ]
   },
@@ -5100,27 +5100,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 5
+        "growthRef": 15
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 10
       },
       {
         "stat": "ATK",
-        "growthRef": 20
+        "growthRef": 17
       },
       {
         "stat": "DEF",
-        "growthRef": 11
+        "growthRef": 20
       },
       {
         "stat": "AGL",
-        "growthRef": 2
+        "growthRef": 11
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 2
       }
     ]
   },
@@ -5146,23 +5146,23 @@
       },
       {
         "stat": "MP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "ATK",
-        "growthRef": 3
+        "growthRef": 6
       },
       {
         "stat": "DEF",
-        "growthRef": 10
+        "growthRef": 3
       },
       {
         "stat": "AGL",
-        "growthRef": 9
+        "growthRef": 10
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 9
       }
     ]
   },
@@ -5184,7 +5184,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "MP",
@@ -5192,19 +5192,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 12
+        "growthRef": 16
       },
       {
         "stat": "DEF",
-        "growthRef": 20
+        "growthRef": 12
       },
       {
         "stat": "AGL",
-        "growthRef": 2
+        "growthRef": 20
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 12
       }
     ]
   },
@@ -5226,27 +5226,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 10
       },
       {
         "stat": "ATK",
-        "growthRef": 16
+        "growthRef": 15
       },
       {
         "stat": "DEF",
-        "growthRef": 7
+        "growthRef": 16
       },
       {
         "stat": "AGL",
-        "growthRef": 4
+        "growthRef": 7
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 14
       }
     ]
   },
@@ -5268,7 +5268,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 6
+        "growthRef": 16
       },
       {
         "stat": "MP",
@@ -5276,19 +5276,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 19
+        "growthRef": 14
       },
       {
         "stat": "DEF",
-        "growthRef": 5
+        "growthRef": 19
       },
       {
         "stat": "AGL",
-        "growthRef": 1
+        "growthRef": 5
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 1
       }
     ]
   },
@@ -5310,7 +5310,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 0
+        "growthRef": 20
       },
       {
         "stat": "MP",
@@ -5318,19 +5318,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 13
+        "growthRef": 19
       },
       {
         "stat": "DEF",
-        "growthRef": 20
+        "growthRef": 13
       },
       {
         "stat": "AGL",
-        "growthRef": 4
+        "growthRef": 20
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 4
       }
     ]
   },
@@ -5352,27 +5352,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 1
+        "growthRef": 21
       },
       {
         "stat": "MP",
-        "growthRef": 9
+        "growthRef": 19
       },
       {
         "stat": "ATK",
-        "growthRef": 20
+        "growthRef": 23
       },
       {
         "stat": "DEF",
-        "growthRef": 12
+        "growthRef": 20
       },
       {
         "stat": "AGL",
-        "growthRef": 4
+        "growthRef": 12
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 14
       }
     ]
   },
@@ -5394,27 +5394,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 2
+        "growthRef": 22
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 20
       },
       {
         "stat": "ATK",
-        "growthRef": 23
+        "growthRef": 24
       },
       {
         "stat": "DEF",
-        "growthRef": 15
+        "growthRef": 23
       },
       {
         "stat": "AGL",
-        "growthRef": 8
+        "growthRef": 15
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 18
       }
     ]
   },
@@ -5436,27 +5436,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 24
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 10
       },
       {
         "stat": "ATK",
-        "growthRef": 26
+        "growthRef": 19
       },
       {
         "stat": "DEF",
-        "growthRef": 1
+        "growthRef": 26
       },
       {
         "stat": "AGL",
-        "growthRef": 5
+        "growthRef": 1
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 15
       }
     ]
   },
@@ -5478,7 +5478,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "MP",
@@ -5486,19 +5486,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 8
-      },
-      {
-        "stat": "DEF",
         "growthRef": 15
       },
       {
+        "stat": "DEF",
+        "growthRef": 8
+      },
+      {
         "stat": "AGL",
-        "growthRef": 4
+        "growthRef": 15
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 4
       }
     ]
   },
@@ -5520,27 +5520,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "MP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "ATK",
-        "growthRef": 12
+        "growthRef": 17
       },
       {
         "stat": "DEF",
-        "growthRef": 7
+        "growthRef": 12
       },
       {
         "stat": "AGL",
-        "growthRef": 1
+        "growthRef": 7
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 21
       }
     ]
   },
@@ -5562,27 +5562,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 6
-      },
-      {
-        "stat": "MP",
-        "growthRef": 1
-      },
-      {
-        "stat": "ATK",
-        "growthRef": 12
-      },
-      {
-        "stat": "DEF",
         "growthRef": 16
       },
       {
+        "stat": "MP",
+        "growthRef": 11
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 18
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 12
+      },
+      {
         "stat": "AGL",
-        "growthRef": 9
+        "growthRef": 16
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 19
       }
     ]
   },
@@ -5604,7 +5604,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "MP",
@@ -5612,19 +5612,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 4
+        "growthRef": 5
       },
       {
         "stat": "DEF",
-        "growthRef": 9
+        "growthRef": 4
       },
       {
         "stat": "AGL",
-        "growthRef": 0
+        "growthRef": 9
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 20
       }
     ]
   },
@@ -5646,27 +5646,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "MP",
-        "growthRef": 8
+        "growthRef": 18
       },
       {
         "stat": "ATK",
-        "growthRef": 16
+        "growthRef": 10
       },
       {
         "stat": "DEF",
-        "growthRef": 9
+        "growthRef": 16
       },
       {
         "stat": "AGL",
-        "growthRef": 2
+        "growthRef": 9
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 12
       }
     ]
   },
@@ -5688,11 +5688,11 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 6
+        "growthRef": 16
       },
       {
         "stat": "MP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "ATK",
@@ -5700,15 +5700,15 @@
       },
       {
         "stat": "DEF",
-        "growthRef": 13
+        "growthRef": 14
       },
       {
         "stat": "AGL",
-        "growthRef": 8
+        "growthRef": 13
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 8
       }
     ]
   },
@@ -5730,27 +5730,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "MP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "ATK",
-        "growthRef": 13
+        "growthRef": 17
       },
       {
         "stat": "DEF",
-        "growthRef": 15
+        "growthRef": 13
       },
       {
         "stat": "AGL",
-        "growthRef": 2
+        "growthRef": 15
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 12
       }
     ]
   },
@@ -5772,27 +5772,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 6
+        "growthRef": 16
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 10
       },
       {
         "stat": "ATK",
-        "growthRef": 22
+        "growthRef": 20
       },
       {
         "stat": "DEF",
-        "growthRef": 4
+        "growthRef": 22
       },
       {
         "stat": "AGL",
-        "growthRef": 2
+        "growthRef": 4
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 12
       }
     ]
   },
@@ -5814,7 +5814,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 0
+        "growthRef": 10
       },
       {
         "stat": "MP",
@@ -5822,7 +5822,7 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 9
+        "growthRef": 5
       },
       {
         "stat": "DEF",
@@ -5830,11 +5830,11 @@
       },
       {
         "stat": "AGL",
-        "growthRef": 7
+        "growthRef": 9
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 17
       }
     ]
   },
@@ -5856,7 +5856,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "MP",
@@ -5864,19 +5864,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 4
-      },
-      {
-        "stat": "DEF",
-        "growthRef": 2
-      },
-      {
-        "stat": "AGL",
         "growthRef": 8
       },
       {
+        "stat": "DEF",
+        "growthRef": 4
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 2
+      },
+      {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 18
       }
     ]
   },
@@ -5898,27 +5898,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "MP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "ATK",
-        "growthRef": 15
+        "growthRef": 14
       },
       {
         "stat": "DEF",
-        "growthRef": 8
+        "growthRef": 15
       },
       {
         "stat": "AGL",
-        "growthRef": 1
+        "growthRef": 8
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 11
       }
     ]
   },
@@ -5940,27 +5940,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 5
-      },
-      {
-        "stat": "MP",
-        "growthRef": 1
-      },
-      {
-        "stat": "ATK",
         "growthRef": 15
       },
       {
+        "stat": "MP",
+        "growthRef": 11
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 14
+      },
+      {
         "stat": "DEF",
-        "growthRef": 12
+        "growthRef": 15
       },
       {
         "stat": "AGL",
-        "growthRef": 9
+        "growthRef": 12
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 19
       }
     ]
   },
@@ -5982,27 +5982,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 0
+        "growthRef": 20
       },
       {
         "stat": "MP",
-        "growthRef": 1
-      },
-      {
-        "stat": "ATK",
-        "growthRef": 13
-      },
-      {
-        "stat": "DEF",
         "growthRef": 11
       },
       {
+        "stat": "ATK",
+        "growthRef": 17
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 13
+      },
+      {
         "stat": "AGL",
-        "growthRef": 0
+        "growthRef": 11
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 20
       }
     ]
   },
@@ -6024,7 +6024,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 9
+        "growthRef": 19
       },
       {
         "stat": "MP",
@@ -6032,7 +6032,7 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 13
+        "growthRef": 19
       },
       {
         "stat": "DEF",
@@ -6040,11 +6040,11 @@
       },
       {
         "stat": "AGL",
-        "growthRef": 8
+        "growthRef": 13
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 18
       }
     ]
   },
@@ -6066,7 +6066,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 5
+        "growthRef": 15
       },
       {
         "stat": "MP",
@@ -6074,19 +6074,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 12
+        "growthRef": 20
       },
       {
         "stat": "DEF",
-        "growthRef": 10
+        "growthRef": 12
       },
       {
         "stat": "AGL",
-        "growthRef": 2
+        "growthRef": 10
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 12
       }
     ]
   },
@@ -6108,27 +6108,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 8
+        "growthRef": 18
       },
       {
         "stat": "MP",
-        "growthRef": 2
+        "growthRef": 12
       },
       {
         "stat": "ATK",
-        "growthRef": 14
+        "growthRef": 18
       },
       {
         "stat": "DEF",
-        "growthRef": 10
+        "growthRef": 14
       },
       {
         "stat": "AGL",
-        "growthRef": 4
+        "growthRef": 10
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 14
       }
     ]
   },
@@ -6150,27 +6150,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "MP",
-        "growthRef": 2
+        "growthRef": 12
       },
       {
         "stat": "ATK",
-        "growthRef": 11
-      },
-      {
-        "stat": "DEF",
         "growthRef": 20
       },
       {
+        "stat": "DEF",
+        "growthRef": 11
+      },
+      {
         "stat": "AGL",
-        "growthRef": 5
+        "growthRef": 20
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 15
       }
     ]
   },
@@ -6191,7 +6191,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 3
+        "growthRef": 23
       },
       {
         "stat": "MP",
@@ -6199,19 +6199,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 24
+        "growthRef": 18
       },
       {
         "stat": "DEF",
-        "growthRef": 12
+        "growthRef": 24
       },
       {
         "stat": "AGL",
-        "growthRef": 2
+        "growthRef": 12
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 12
       }
     ]
   },
@@ -6233,27 +6233,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 24
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 30
       },
       {
         "stat": "ATK",
-        "growthRef": 21
+        "growthRef": 23
       },
       {
         "stat": "DEF",
-        "growthRef": 18
+        "growthRef": 21
       },
       {
         "stat": "AGL",
-        "growthRef": 1
+        "growthRef": 18
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 21
       }
     ]
   },
@@ -6276,7 +6276,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "MP",
@@ -6284,19 +6284,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 20
+        "growthRef": 18
       },
       {
         "stat": "DEF",
-        "growthRef": 10
+        "growthRef": 20
       },
       {
         "stat": "AGL",
-        "growthRef": 2
+        "growthRef": 10
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 12
       }
     ]
   },
@@ -6318,7 +6318,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 7
+        "growthRef": 27
       },
       {
         "stat": "MP",
@@ -6326,11 +6326,11 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 7
+        "growthRef": 27
       },
       {
         "stat": "DEF",
-        "growthRef": 0
+        "growthRef": 7
       },
       {
         "stat": "AGL",
@@ -6338,7 +6338,7 @@
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 0
       }
     ]
   },
@@ -6360,7 +6360,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 0
+        "growthRef": 20
       },
       {
         "stat": "MP",
@@ -6368,19 +6368,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 21
+        "growthRef": 24
       },
       {
         "stat": "DEF",
-        "growthRef": 18
+        "growthRef": 21
       },
       {
         "stat": "AGL",
-        "growthRef": 9
+        "growthRef": 18
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 19
       }
     ]
   },
@@ -6401,7 +6401,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 6
+        "growthRef": 16
       },
       {
         "stat": "MP",
@@ -6409,19 +6409,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 29
+        "growthRef": 17
       },
       {
         "stat": "DEF",
-        "growthRef": 5
+        "growthRef": 29
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 5
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 13
       }
     ]
   },
@@ -6443,7 +6443,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 24
       },
       {
         "stat": "MP",
@@ -6451,19 +6451,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 24
+        "growthRef": 21
       },
       {
         "stat": "DEF",
-        "growthRef": 23
+        "growthRef": 24
       },
       {
         "stat": "AGL",
-        "growthRef": 8
+        "growthRef": 23
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 18
       }
     ]
   },
@@ -6484,27 +6484,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 5
+        "growthRef": 25
       },
       {
         "stat": "MP",
-        "growthRef": 4
+        "growthRef": 24
       },
       {
         "stat": "ATK",
-        "growthRef": 15
+        "growthRef": 23
       },
       {
         "stat": "DEF",
-        "growthRef": 17
+        "growthRef": 15
       },
       {
         "stat": "AGL",
-        "growthRef": 0
+        "growthRef": 17
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 20
       }
     ]
   },
@@ -6526,27 +6526,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "MP",
-        "growthRef": 2
+        "growthRef": 12
       },
       {
         "stat": "ATK",
-        "growthRef": 8
+        "growthRef": 13
       },
       {
         "stat": "DEF",
-        "growthRef": 18
+        "growthRef": 8
       },
       {
         "stat": "AGL",
-        "growthRef": 5
+        "growthRef": 18
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 15
       }
     ]
   },
@@ -6576,19 +6576,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 15
+        "growthRef": 23
       },
       {
         "stat": "DEF",
-        "growthRef": 4
+        "growthRef": 15
       },
       {
         "stat": "AGL",
-        "growthRef": 6
+        "growthRef": 4
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 6
       }
     ]
   },
@@ -6610,27 +6610,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "MP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "ATK",
-        "growthRef": 8
+        "growthRef": 17
       },
       {
         "stat": "DEF",
-        "growthRef": 11
+        "growthRef": 8
       },
       {
         "stat": "AGL",
-        "growthRef": 4
+        "growthRef": 11
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 4
       }
     ]
   },
@@ -6652,7 +6652,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "MP",
@@ -6660,19 +6660,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 11
+        "growthRef": 12
       },
       {
         "stat": "DEF",
-        "growthRef": 18
+        "growthRef": 11
       },
       {
         "stat": "AGL",
-        "growthRef": 9
+        "growthRef": 18
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 9
       }
     ]
   },
@@ -6694,27 +6694,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 5
+        "growthRef": 15
       },
       {
         "stat": "MP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "ATK",
-        "growthRef": 9
+        "growthRef": 12
       },
       {
         "stat": "DEF",
-        "growthRef": 4
+        "growthRef": 9
       },
       {
         "stat": "AGL",
-        "growthRef": 8
+        "growthRef": 4
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 8
       }
     ]
   },
@@ -6736,7 +6736,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 2
+        "growthRef": 12
       },
       {
         "stat": "MP",
@@ -6744,11 +6744,11 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 20
+        "growthRef": 15
       },
       {
         "stat": "DEF",
-        "growthRef": 1
+        "growthRef": 20
       },
       {
         "stat": "AGL",
@@ -6756,7 +6756,7 @@
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 11
       }
     ]
   },
@@ -6777,7 +6777,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "MP",
@@ -6785,19 +6785,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 9
+        "growthRef": 19
       },
       {
         "stat": "DEF",
-        "growthRef": 12
+        "growthRef": 9
       },
       {
         "stat": "AGL",
-        "growthRef": 8
+        "growthRef": 12
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 8
       }
     ]
   },
@@ -6828,19 +6828,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 20
+        "growthRef": 6
       },
       {
         "stat": "DEF",
-        "growthRef": 8
+        "growthRef": 20
       },
       {
         "stat": "AGL",
-        "growthRef": 2
+        "growthRef": 8
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 12
       }
     ]
   },
@@ -6862,27 +6862,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "MP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "ATK",
-        "growthRef": 8
+        "growthRef": 16
       },
       {
         "stat": "DEF",
-        "growthRef": 11
+        "growthRef": 8
       },
       {
         "stat": "AGL",
-        "growthRef": 0
+        "growthRef": 11
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 10
       }
     ]
   },
@@ -6908,23 +6908,23 @@
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 10
       },
       {
         "stat": "ATK",
-        "growthRef": 17
+        "growthRef": 11
       },
       {
         "stat": "DEF",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "AGL",
-        "growthRef": 4
+        "growthRef": 7
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 14
       }
     ]
   },
@@ -6946,7 +6946,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "MP",
@@ -6954,19 +6954,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 3
+        "growthRef": 10
       },
       {
         "stat": "DEF",
-        "growthRef": 15
+        "growthRef": 3
       },
       {
         "stat": "AGL",
-        "growthRef": 9
+        "growthRef": 15
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 9
       }
     ]
   },
@@ -6988,27 +6988,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "MP",
-        "growthRef": 2
-      },
-      {
-        "stat": "ATK",
         "growthRef": 12
       },
       {
+        "stat": "ATK",
+        "growthRef": 15
+      },
+      {
         "stat": "DEF",
-        "growthRef": 16
+        "growthRef": 12
       },
       {
         "stat": "AGL",
-        "growthRef": 0
+        "growthRef": 16
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 10
       }
     ]
   },
@@ -7030,27 +7030,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 6
+        "growthRef": 16
       },
       {
         "stat": "MP",
-        "growthRef": 9
+        "growthRef": 19
       },
       {
         "stat": "ATK",
-        "growthRef": 12
+        "growthRef": 19
       },
       {
         "stat": "DEF",
-        "growthRef": 13
+        "growthRef": 12
       },
       {
         "stat": "AGL",
-        "growthRef": 6
+        "growthRef": 13
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 6
       }
     ]
   },
@@ -7072,7 +7072,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 9
+        "growthRef": 19
       },
       {
         "stat": "MP",
@@ -7080,19 +7080,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 17
+        "growthRef": 21
       },
       {
         "stat": "DEF",
-        "growthRef": 19
+        "growthRef": 17
       },
       {
         "stat": "AGL",
-        "growthRef": 6
+        "growthRef": 19
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 6
       }
     ]
   },
@@ -7114,7 +7114,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 1
+        "growthRef": 21
       },
       {
         "stat": "MP",
@@ -7122,19 +7122,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 19
+        "growthRef": 26
       },
       {
         "stat": "DEF",
-        "growthRef": 15
+        "growthRef": 19
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 15
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 13
       }
     ]
   },
@@ -7156,27 +7156,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 0
-      },
-      {
-        "stat": "MP",
-        "growthRef": 4
-      },
-      {
-        "stat": "ATK",
         "growthRef": 20
       },
       {
+        "stat": "MP",
+        "growthRef": 24
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 14
+      },
+      {
         "stat": "DEF",
-        "growthRef": 15
+        "growthRef": 20
       },
       {
         "stat": "AGL",
-        "growthRef": 7
+        "growthRef": 15
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 27
       }
     ]
   },
@@ -7198,27 +7198,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "MP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "ATK",
-        "growthRef": 12
+        "growthRef": 17
       },
       {
         "stat": "DEF",
-        "growthRef": 7
+        "growthRef": 12
       },
       {
         "stat": "AGL",
-        "growthRef": 1
+        "growthRef": 7
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 1
       }
     ]
   },
@@ -7240,27 +7240,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 6
-      },
-      {
-        "stat": "MP",
-        "growthRef": 1
-      },
-      {
-        "stat": "ATK",
-        "growthRef": 12
-      },
-      {
-        "stat": "DEF",
         "growthRef": 16
       },
       {
+        "stat": "MP",
+        "growthRef": 11
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 18
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 12
+      },
+      {
         "stat": "AGL",
-        "growthRef": 9
+        "growthRef": 16
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 19
       }
     ]
   },
@@ -7282,27 +7282,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 3
+        "growthRef": 23
       },
       {
         "stat": "MP",
-        "growthRef": 1
+        "growthRef": 21
       },
       {
         "stat": "ATK",
-        "growthRef": 18
+        "growthRef": 25
       },
       {
         "stat": "DEF",
-        "growthRef": 15
+        "growthRef": 18
       },
       {
         "stat": "AGL",
-        "growthRef": 0
+        "growthRef": 15
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 20
       }
     ]
   },
@@ -7324,27 +7324,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 20
       },
       {
         "stat": "ATK",
-        "growthRef": 2
+        "growthRef": 1
       },
       {
         "stat": "DEF",
-        "growthRef": 21
+        "growthRef": 2
       },
       {
         "stat": "AGL",
-        "growthRef": 5
+        "growthRef": 21
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 5
       }
     ]
   },
@@ -7366,27 +7366,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "MP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "ATK",
-        "growthRef": 18
+        "growthRef": 9
       },
       {
         "stat": "DEF",
-        "growthRef": 17
+        "growthRef": 18
       },
       {
         "stat": "AGL",
-        "growthRef": 5
+        "growthRef": 17
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 15
       }
     ]
   },
@@ -7408,27 +7408,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "MP",
-        "growthRef": 5
+        "growthRef": 15
       },
       {
         "stat": "ATK",
-        "growthRef": 12
+        "growthRef": 17
       },
       {
         "stat": "DEF",
-        "growthRef": 9
+        "growthRef": 12
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 9
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 13
       }
     ]
   },
@@ -7450,27 +7450,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 2
+        "growthRef": 12
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 10
       },
       {
         "stat": "ATK",
-        "growthRef": 6
+        "growthRef": 14
       },
       {
         "stat": "DEF",
-        "growthRef": 17
+        "growthRef": 6
       },
       {
         "stat": "AGL",
-        "growthRef": 2
+        "growthRef": 17
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 12
       }
     ]
   },
@@ -7492,15 +7492,15 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 6
+        "growthRef": 16
       },
       {
         "stat": "MP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "ATK",
-        "growthRef": 14
+        "growthRef": 5
       },
       {
         "stat": "DEF",
@@ -7508,11 +7508,11 @@
       },
       {
         "stat": "AGL",
-        "growthRef": 7
+        "growthRef": 14
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 7
       }
     ]
   },
@@ -7538,23 +7538,23 @@
       },
       {
         "stat": "MP",
-        "growthRef": 3
+        "growthRef": 23
       },
       {
         "stat": "ATK",
-        "growthRef": 12
+        "growthRef": 11
       },
       {
         "stat": "DEF",
-        "growthRef": 3
+        "growthRef": 12
       },
       {
         "stat": "AGL",
-        "growthRef": 9
+        "growthRef": 3
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 19
       }
     ]
   },
@@ -7580,23 +7580,23 @@
       },
       {
         "stat": "MP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "ATK",
-        "growthRef": 17
+        "growthRef": 14
       },
       {
         "stat": "DEF",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "AGL",
-        "growthRef": 1
+        "growthRef": 7
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 11
       }
     ]
   },
@@ -7618,27 +7618,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 5
+        "growthRef": 15
       },
       {
         "stat": "MP",
-        "growthRef": 1
-      },
-      {
-        "stat": "ATK",
-        "growthRef": 6
-      },
-      {
-        "stat": "DEF",
         "growthRef": 11
       },
       {
+        "stat": "ATK",
+        "growthRef": 8
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 6
+      },
+      {
         "stat": "AGL",
-        "growthRef": 9
+        "growthRef": 11
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 19
       }
     ]
   },
@@ -7660,7 +7660,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "MP",
@@ -7668,19 +7668,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 21
+        "growthRef": 20
       },
       {
         "stat": "DEF",
-        "growthRef": 10
+        "growthRef": 21
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 10
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 13
       }
     ]
   },
@@ -7706,23 +7706,23 @@
       },
       {
         "stat": "MP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "ATK",
-        "growthRef": 14
+        "growthRef": 11
       },
       {
         "stat": "DEF",
-        "growthRef": 7
+        "growthRef": 14
       },
       {
         "stat": "AGL",
-        "growthRef": 4
+        "growthRef": 7
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 4
       }
     ]
   },
@@ -7744,11 +7744,11 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 14
       },
       {
         "stat": "MP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "ATK",
@@ -7756,15 +7756,15 @@
       },
       {
         "stat": "DEF",
-        "growthRef": 8
+        "growthRef": 12
       },
       {
         "stat": "AGL",
-        "growthRef": 4
+        "growthRef": 8
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 14
       }
     ]
   },
@@ -7786,27 +7786,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 8
+        "growthRef": 18
       },
       {
         "stat": "MP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "ATK",
-        "growthRef": 23
+        "growthRef": 20
       },
       {
         "stat": "DEF",
-        "growthRef": 9
+        "growthRef": 23
       },
       {
         "stat": "AGL",
-        "growthRef": 0
+        "growthRef": 9
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 10
       }
     ]
   },
@@ -7828,27 +7828,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 1
-      },
-      {
-        "stat": "MP",
-        "growthRef": 1
-      },
-      {
-        "stat": "ATK",
         "growthRef": 21
       },
       {
+        "stat": "MP",
+        "growthRef": 11
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 23
+      },
+      {
         "stat": "DEF",
-        "growthRef": 18
+        "growthRef": 21
       },
       {
         "stat": "AGL",
-        "growthRef": 9
+        "growthRef": 18
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 19
       }
     ]
   },
@@ -7878,19 +7878,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 11
+        "growthRef": 9
       },
       {
         "stat": "DEF",
-        "growthRef": 12
+        "growthRef": 11
       },
       {
         "stat": "AGL",
-        "growthRef": 6
+        "growthRef": 12
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 6
       }
     ]
   },
@@ -7912,27 +7912,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 2
+        "growthRef": 12
       },
       {
         "stat": "MP",
-        "growthRef": 8
+        "growthRef": 18
       },
       {
         "stat": "ATK",
-        "growthRef": 19
+        "growthRef": 9
       },
       {
         "stat": "DEF",
-        "growthRef": 13
+        "growthRef": 19
       },
       {
         "stat": "AGL",
-        "growthRef": 5
+        "growthRef": 13
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 15
       }
     ]
   },
@@ -7954,7 +7954,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 2
+        "growthRef": 12
       },
       {
         "stat": "MP",
@@ -7962,19 +7962,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 22
+        "growthRef": 21
       },
       {
         "stat": "DEF",
-        "growthRef": 24
+        "growthRef": 22
       },
       {
         "stat": "AGL",
-        "growthRef": 7
+        "growthRef": 24
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 17
       }
     ]
   },
@@ -7996,19 +7996,19 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 8
-      },
-      {
-        "stat": "MP",
-        "growthRef": 9
-      },
-      {
-        "stat": "ATK",
         "growthRef": 18
       },
       {
+        "stat": "MP",
+        "growthRef": 19
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 15
+      },
+      {
         "stat": "DEF",
-        "growthRef": 9
+        "growthRef": 18
       },
       {
         "stat": "AGL",
@@ -8016,7 +8016,7 @@
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 19
       }
     ]
   },
@@ -8038,27 +8038,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 3
+        "growthRef": 13
       },
       {
         "stat": "MP",
-        "growthRef": 5
+        "growthRef": 15
       },
       {
         "stat": "ATK",
-        "growthRef": 14
+        "growthRef": 11
       },
       {
         "stat": "DEF",
-        "growthRef": 20
+        "growthRef": 14
       },
       {
         "stat": "AGL",
-        "growthRef": 8
+        "growthRef": 20
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 18
       }
     ]
   },
@@ -8080,27 +8080,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 8
+        "growthRef": 18
       },
       {
         "stat": "MP",
-        "growthRef": 2
+        "growthRef": 12
       },
       {
         "stat": "ATK",
-        "growthRef": 24
+        "growthRef": 17
       },
       {
         "stat": "DEF",
-        "growthRef": 4
+        "growthRef": 24
       },
       {
         "stat": "AGL",
-        "growthRef": 7
+        "growthRef": 4
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 7
       }
     ]
   },
@@ -8122,7 +8122,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 6
+        "growthRef": 16
       },
       {
         "stat": "MP",
@@ -8130,19 +8130,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 24
+        "growthRef": 18
       },
       {
         "stat": "DEF",
-        "growthRef": 4
+        "growthRef": 24
       },
       {
         "stat": "AGL",
-        "growthRef": 7
+        "growthRef": 4
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 7
       }
     ]
   },
@@ -8164,27 +8164,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 5
+        "growthRef": 25
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 10
       },
       {
         "stat": "ATK",
-        "growthRef": 12
+        "growthRef": 20
       },
       {
         "stat": "DEF",
-        "growthRef": 1
+        "growthRef": 12
       },
       {
         "stat": "AGL",
-        "growthRef": 0
+        "growthRef": 1
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 20
       }
     ]
   },
@@ -8206,7 +8206,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 2
+        "growthRef": 12
       },
       {
         "stat": "MP",
@@ -8214,19 +8214,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 14
+        "growthRef": 13
       },
       {
         "stat": "DEF",
-        "growthRef": 1
+        "growthRef": 14
       },
       {
         "stat": "AGL",
-        "growthRef": 5
+        "growthRef": 1
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 15
       }
     ]
   },
@@ -8248,7 +8248,7 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 7
+        "growthRef": 17
       },
       {
         "stat": "MP",
@@ -8256,19 +8256,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 21
+        "growthRef": 12
       },
       {
         "stat": "DEF",
-        "growthRef": 4
+        "growthRef": 21
       },
       {
         "stat": "AGL",
-        "growthRef": 6
+        "growthRef": 4
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 6
       }
     ]
   },
@@ -8290,27 +8290,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
-      },
-      {
-        "stat": "MP",
-        "growthRef": 0
-      },
-      {
-        "stat": "ATK",
         "growthRef": 24
       },
       {
+        "stat": "MP",
+        "growthRef": 10
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 23
+      },
+      {
         "stat": "DEF",
-        "growthRef": 1
+        "growthRef": 24
       },
       {
         "stat": "AGL",
-        "growthRef": 4
+        "growthRef": 1
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 14
       }
     ]
   },
@@ -8332,27 +8332,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 5
+        "growthRef": 15
       },
       {
         "stat": "MP",
-        "growthRef": 1
+        "growthRef": 11
       },
       {
         "stat": "ATK",
-        "growthRef": 20
+        "growthRef": 17
       },
       {
         "stat": "DEF",
-        "growthRef": 0
+        "growthRef": 20
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 0
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 13
       }
     ]
   },
@@ -8374,27 +8374,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 24
       },
       {
         "stat": "MP",
-        "growthRef": 1
+        "growthRef": 21
       },
       {
         "stat": "ATK",
-        "growthRef": 27
+        "growthRef": 24
       },
       {
         "stat": "DEF",
-        "growthRef": 17
+        "growthRef": 27
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 17
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 23
       }
     ]
   },
@@ -8424,11 +8424,11 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 1
+        "growthRef": 21
       },
       {
         "stat": "DEF",
-        "growthRef": 23
+        "growthRef": 20
       },
       {
         "stat": "AGL",
@@ -8436,7 +8436,7 @@
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 23
       }
     ]
   },
@@ -8466,19 +8466,19 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 4
+        "growthRef": 24
       },
       {
         "stat": "DEF",
-        "growthRef": 23
-      },
-      {
-        "stat": "AGL",
         "growthRef": 21
       },
       {
+        "stat": "AGL",
+        "growthRef": 23
+      },
+      {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 21
       }
     ]
   },
@@ -8500,27 +8500,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 9
+        "growthRef": 19
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 30
       },
       {
         "stat": "ATK",
-        "growthRef": 21
+        "growthRef": 20
       },
       {
         "stat": "DEF",
-        "growthRef": 23
+        "growthRef": 21
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 23
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 23
       }
     ]
   },
@@ -8542,27 +8542,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 24
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 30
       },
       {
         "stat": "ATK",
-        "growthRef": 21
+        "growthRef": 24
       },
       {
         "stat": "DEF",
-        "growthRef": 23
+        "growthRef": 21
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 23
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 23
       }
     ]
   },
@@ -8584,11 +8584,11 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 0
+        "growthRef": 20
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 30
       },
       {
         "stat": "ATK",
@@ -8596,15 +8596,15 @@
       },
       {
         "stat": "DEF",
-        "growthRef": 22
+        "growthRef": 20
       },
       {
         "stat": "AGL",
-        "growthRef": 1
+        "growthRef": 22
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 21
       }
     ]
   },
@@ -8626,27 +8626,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 4
+        "growthRef": 24
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 30
       },
       {
         "stat": "ATK",
-        "growthRef": 21
+        "growthRef": 26
       },
       {
         "stat": "DEF",
-        "growthRef": 23
+        "growthRef": 21
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 23
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 23
       }
     ]
   },
@@ -8668,27 +8668,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 1
-      },
-      {
-        "stat": "MP",
-        "growthRef": 0
-      },
-      {
-        "stat": "ATK",
         "growthRef": 21
       },
       {
+        "stat": "MP",
+        "growthRef": 30
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 26
+      },
+      {
         "stat": "DEF",
-        "growthRef": 23
+        "growthRef": 21
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 23
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 23
       }
     ]
   },
@@ -8710,27 +8710,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 9
+        "growthRef": 29
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 30
       },
       {
         "stat": "ATK",
-        "growthRef": 24
+        "growthRef": 26
       },
       {
         "stat": "DEF",
-        "growthRef": 23
+        "growthRef": 24
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 23
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 23
       }
     ]
   },
@@ -8760,11 +8760,11 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 6
+        "growthRef": 26
       },
       {
         "stat": "DEF",
-        "growthRef": 23
+        "growthRef": 21
       },
       {
         "stat": "AGL",
@@ -8772,7 +8772,7 @@
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 23
       }
     ]
   },
@@ -8802,11 +8802,11 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 6
+        "growthRef": 26
       },
       {
         "stat": "DEF",
-        "growthRef": 23
+        "growthRef": 21
       },
       {
         "stat": "AGL",
@@ -8814,7 +8814,7 @@
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 23
       }
     ]
   },
@@ -8836,27 +8836,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 1
+        "growthRef": 21
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 30
       },
       {
         "stat": "ATK",
-        "growthRef": 24
+        "growthRef": 26
       },
       {
         "stat": "DEF",
-        "growthRef": 23
+        "growthRef": 24
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 23
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 23
       }
     ]
   },
@@ -8886,11 +8886,11 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 6
+        "growthRef": 26
       },
       {
         "stat": "DEF",
-        "growthRef": 23
+        "growthRef": 21
       },
       {
         "stat": "AGL",
@@ -8898,7 +8898,7 @@
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 23
       }
     ]
   },
@@ -8928,11 +8928,11 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 6
+        "growthRef": 26
       },
       {
         "stat": "DEF",
-        "growthRef": 23
+        "growthRef": 21
       },
       {
         "stat": "AGL",
@@ -8940,7 +8940,7 @@
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 23
       }
     ]
   },
@@ -8970,11 +8970,11 @@
       },
       {
         "stat": "ATK",
-        "growthRef": 0
+        "growthRef": 30
       },
       {
         "stat": "DEF",
-        "growthRef": 23
+        "growthRef": 24
       },
       {
         "stat": "AGL",
@@ -8982,7 +8982,7 @@
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 23
       }
     ]
   },
@@ -9004,27 +9004,27 @@
     "statGrow": [
       {
         "stat": "HP",
-        "growthRef": 1
+        "growthRef": 31
       },
       {
         "stat": "MP",
-        "growthRef": 0
+        "growthRef": 30
       },
       {
         "stat": "ATK",
-        "growthRef": 24
+        "growthRef": 31
       },
       {
         "stat": "DEF",
-        "growthRef": 23
+        "growthRef": 24
       },
       {
         "stat": "AGL",
-        "growthRef": 3
+        "growthRef": 23
       },
       {
         "stat": "INT",
-        "growthRef": null
+        "growthRef": 23
       }
     ]
   }

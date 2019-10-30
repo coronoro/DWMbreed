@@ -6,7 +6,7 @@ export class BreedingRule extends Identifiable{
 
     compound1: Compound;
     compound2: Compound;
-    resultId: Number;
+    resultId: number;
 
     constructor(compound1: Compound, compound2: Compound, result: Monster){
         super();

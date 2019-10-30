@@ -5,17 +5,17 @@ import {StatGrowRef} from "./StatGrowRef";
 
 export class Monster extends Identifiable{
 
-    name: String;
-    familyId: Number
-    skills: Number[]
-    maxLvl: Number;
-    expTableId: Number
+    name: string;
+    familyId: number
+    skills: number[]
+    maxLvl: number;
+    expTableId: number
     sexProbability: SexProbability
-    flying: Boolean
-    metal: Boolean
+    flying: boolean
+    metal: boolean
     statGrow: StatGrowRef[]
 
-    constructor(name:String, familyId:Number){
+    constructor(name:string, familyId:number){
         super();
         this.name = name;
         this.familyId = familyId

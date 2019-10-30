@@ -1,7 +1,7 @@
 export class Identifiable{
 
-    id:Number
-    uuid: String
+    id:number
+    uuid: string
 
     constructor(){
         this.uuid = this.uuidv4()

@@ -3,16 +3,18 @@ import {SkillConstraint} from "./skillConstraint";
 
 export class Skill extends Identifiable{
 
-    name: String;
-    description: String;
-    levelRequirement: Number;
+    name: string;
+    description: string;
+    levelRequirement: number;
     constraints: SkillConstraint[];
-    upgradedFrom: Number;
+    upgradedFrom: number;
+    mpCost:number;
 
-    constructor(name: String, description: String){
+    constructor(name: string, description: string){
         super();
         this.name = name;
         this.description = description
+        this.mpCost = -1
     }
 
 }
