@@ -1,0 +1,9031 @@
+[
+  {
+    "uuid": "e56c0ecb-f271-4a72-9fbc-26e4e68832d7",
+    "name": "DrakSlime",
+    "familyId": 0,
+    "id": 0,
+    "skills": [
+      7,
+      45,
+      130
+    ],
+    "maxLvl": 45,
+    "expTableId": 13,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 6
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 8
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 20
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 6
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "a19fdc9b-5cdc-4c3e-bd66-62c1af1b37d5",
+    "name": "SpotSlime",
+    "familyId": 0,
+    "id": 1,
+    "skills": [
+      25,
+      66,
+      79
+    ],
+    "maxLvl": 35,
+    "expTableId": 10,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 7
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 4
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 17
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 8
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "38b8b671-4e6a-43eb-a23f-87d75b673e7b",
+    "name": "WingSlime",
+    "familyId": 0,
+    "id": 2,
+    "skills": [
+      125,
+      134,
+      151
+    ],
+    "maxLvl": 35,
+    "expTableId": 10,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 3
+      },
+      {
+        "stat": "MP",
+        "growthRef": 2
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 11
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 24
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 8
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "22974e27-d080-4278-af7a-f0174a96ee17",
+    "name": "TreeSlime",
+    "familyId": 0,
+    "id": 3,
+    "skills": [
+      95,
+      111,
+      117
+    ],
+    "maxLvl": 50,
+    "expTableId": 11,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 3
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 14
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 17
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 7
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "9828a02c-0e5d-4a19-a2bc-a8bb51d254ea",
+    "name": "Snaily",
+    "familyId": 0,
+    "id": 4,
+    "skills": [
+      25,
+      63,
+      90
+    ],
+    "maxLvl": 30,
+    "expTableId": 8,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 1
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 20
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 20
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 8
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "02cf7614-b667-4e93-8f48-7a66c73d09b5",
+    "name": "SlimeNite",
+    "familyId": 0,
+    "id": 5,
+    "skills": [
+      5,
+      54,
+      143
+    ],
+    "maxLvl": 40,
+    "expTableId": 15,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 14
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 20
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 4
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "dd28cb70-4c80-4fb3-92a9-efd2ef88d7cd",
+    "name": "Babble",
+    "familyId": 0,
+    "id": 6,
+    "skills": [
+      41,
+      98,
+      133
+    ],
+    "maxLvl": 45,
+    "expTableId": 12,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 7
+      },
+      {
+        "stat": "MP",
+        "growthRef": 7
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 8
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 14
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "cd7d7b0b-938f-4093-91b1-20ebe777da84",
+    "name": "BoxSlime",
+    "familyId": 0,
+    "id": 7,
+    "skills": [
+      15,
+      103,
+      143
+    ],
+    "maxLvl": 50,
+    "expTableId": 11,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 1
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 19
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 14
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "183c97e9-fc68-4dbc-b984-1f2f14b248d6",
+    "name": "Slime",
+    "familyId": 0,
+    "id": 8,
+    "skills": [
+      46,
+      85,
+      101
+    ],
+    "maxLvl": 40,
+    "expTableId": 16,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 2
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 17
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 11
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "848880de-2b8a-4401-b0f6-c2719c2aa190",
+    "name": "Healer",
+    "familyId": 0,
+    "id": 9,
+    "skills": [
+      54,
+      57,
+      143
+    ],
+    "maxLvl": 50,
+    "expTableId": 11,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 1
+      },
+      {
+        "stat": "MP",
+        "growthRef": 5
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 11
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 20
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 8
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "e5c4869e-ebc0-476d-97f4-bfcab2e9d92e",
+    "name": "FangSlime",
+    "familyId": 0,
+    "id": 10,
+    "skills": [
+      25,
+      27,
+      147
+    ],
+    "maxLvl": 35,
+    "expTableId": 10,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 5
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 13
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 20
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "3a8301d2-3e14-4d02-8478-db9e7a0b8c08",
+    "name": "RockSlime",
+    "familyId": 0,
+    "id": 11,
+    "skills": [
+      60,
+      107,
+      129
+    ],
+    "maxLvl": 50,
+    "expTableId": 11,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 3
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 23
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 16
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 4
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "ce701dde-a2f2-4d67-b85c-5639d216caa0",
+    "name": "SlimeBorg",
+    "familyId": 0,
+    "id": 12,
+    "skills": [
+      14,
+      77,
+      102
+    ],
+    "maxLvl": 50,
+    "expTableId": 11,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 8
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 15
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 14
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "c97984da-27ba-4d86-9280-56909062feca",
+    "name": "Slabbit",
+    "familyId": 0,
+    "id": 13,
+    "skills": [
+      74,
+      115,
+      148
+    ],
+    "maxLvl": 35,
+    "expTableId": 10,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 5
+      },
+      {
+        "stat": "MP",
+        "growthRef": 7
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 8
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 21
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 5
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "671df716-ab74-4f39-93a3-fcc6f08f7c06",
+    "name": "SpotKing",
+    "familyId": 0,
+    "id": 14,
+    "skills": [
+      28,
+      87,
+      89
+    ],
+    "maxLvl": 40,
+    "expTableId": 9,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 8
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 11
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 20
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 5
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "e122c79e-82ba-4ba7-b6a1-efadb48264b3",
+    "name": "KingSlime",
+    "familyId": 0,
+    "id": 15,
+    "skills": [
+      3,
+      54,
+      146
+    ],
+    "maxLvl": 40,
+    "expTableId": 12,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 8
+      },
+      {
+        "stat": "MP",
+        "growthRef": 4
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 14
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 20
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 5
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "cffc086d-22fd-4d24-9101-1d9d8e158009",
+    "name": "Metaly",
+    "familyId": 0,
+    "id": 16,
+    "skills": [
+      6,
+      15,
+      63
+    ],
+    "maxLvl": 20,
+    "expTableId": 25,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 0
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 30
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 31
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "6af76109-0a96-4aad-8417-53ea6b2663e9",
+    "name": "Metabble",
+    "familyId": 0,
+    "id": 17,
+    "skills": [
+      2,
+      46,
+      108
+    ],
+    "maxLvl": 40,
+    "expTableId": 27,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 0
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 31
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 31
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 5
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "2dde3af5-c8d0-430b-81e2-d1e4307a9da8",
+    "name": "MetalKing",
+    "familyId": 0,
+    "id": 18,
+    "skills": [
+      20,
+      59,
+      71
+    ],
+    "maxLvl": 60,
+    "expTableId": 29,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 0
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 31
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 31
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 8
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "8478f1b9-fae5-4f02-9426-957cdf47b36b",
+    "name": "GoldSlime",
+    "familyId": 0,
+    "id": 19,
+    "skills": [
+      11,
+      26,
+      132
+    ],
+    "maxLvl": 80,
+    "expTableId": 31,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 0
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 31
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 31
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 8
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "60f6183f-5787-49d0-9baa-aec8c7b3f3c9",
+    "name": "DragonKid",
+    "familyId": 1,
+    "id": 20,
+    "skills": [
+      39,
+      45,
+      117
+    ],
+    "maxLvl": 25,
+    "expTableId": 7,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 0
+      },
+      {
+        "stat": "MP",
+        "growthRef": 3
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 2
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 5
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 5
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "a6a82ff7-af18-4415-a045-2f806cf6c5e4",
+    "name": "Tortragon",
+    "familyId": 1,
+    "id": 21,
+    "skills": [
+      71,
+      77,
+      80
+    ],
+    "maxLvl": 35,
+    "expTableId": 17,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 5
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 6
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 7
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "22ea3d34-4c20-4bd2-bc28-9ba3c37afb57",
+    "name": "Pteranod",
+    "familyId": 1,
+    "id": 22,
+    "skills": [
+      46,
+      134,
+      151
+    ],
+    "maxLvl": 35,
+    "expTableId": 16,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 2
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 20
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 4
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "8e386921-d5b9-4c67-8ed9-69df5eb0768f",
+    "name": "Gasgon",
+    "familyId": 1,
+    "id": 23,
+    "skills": [
+      8,
+      44,
+      108
+    ],
+    "maxLvl": 50,
+    "expTableId": 18,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 7
+      },
+      {
+        "stat": "MP",
+        "growthRef": 5
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 11
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 7
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 8
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "4ad47597-2d7a-476b-a61d-4d12673a2e63",
+    "name": "FairyDrak",
+    "familyId": 1,
+    "id": 24,
+    "skills": [
+      79,
+      117,
+      133
+    ],
+    "maxLvl": 30,
+    "expTableId": 15,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 9
+      },
+      {
+        "stat": "MP",
+        "growthRef": 3
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 16
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 14
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 4
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "828ad438-c294-46c4-9ab5-dc7e3a965afb",
+    "name": "LizardMan",
+    "familyId": 1,
+    "id": 25,
+    "skills": [
+      5,
+      40,
+      42,
+      52
+    ],
+    "maxLvl": 40,
+    "expTableId": 20,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 7
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 13
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 5
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 6
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "3c92d40d-2add-4643-a3f2-85f978746301",
+    "name": "Poisongon",
+    "familyId": 1,
+    "id": 26,
+    "skills": [
+      79,
+      97,
+      98
+    ],
+    "maxLvl": 45,
+    "expTableId": 19,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 1
+      },
+      {
+        "stat": "MP",
+        "growthRef": 6
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 13
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 7
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 1
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "9b39e4d6-7efb-4b7f-9031-9d479e276ea6",
+    "name": "Swordgon",
+    "familyId": 1,
+    "id": 27,
+    "skills": [
+      14,
+      28,
+      102
+    ],
+    "maxLvl": 50,
+    "expTableId": 20,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 9
+      },
+      {
+        "stat": "MP",
+        "growthRef": 3
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 6
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 1
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 5
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "ca8096eb-b142-4d07-9c70-13e8234a13c5",
+    "name": "Dragon",
+    "familyId": 1,
+    "id": 28,
+    "skills": [
+      45,
+      49,
+      131
+    ],
+    "maxLvl": 40,
+    "expTableId": 20,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 7
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 16
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 7
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 4
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "1d3a4e7e-542e-43c8-8765-e1fb090c069c",
+    "name": "Minidrak",
+    "familyId": 1,
+    "id": 29,
+    "skills": [
+      25,
+      103,
+      110
+    ],
+    "maxLvl": 35,
+    "expTableId": 16,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 8
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 14
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 18
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 0
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "56905da8-c68b-4fa6-97f1-cbad7559dc49",
+    "name": "MadDragon",
+    "familyId": 1,
+    "id": 30,
+    "skills": [
+      42,
+      78,
+      83
+    ],
+    "maxLvl": 35,
+    "expTableId": 19,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 9
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 5
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 8
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 0
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "34f72cb0-5d09-449d-866f-4b281aff78d0",
+    "name": "Rayburn",
+    "familyId": 1,
+    "id": 31,
+    "skills": [
+      37,
+      98,
+      144
+    ],
+    "maxLvl": 35,
+    "expTableId": 17,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 2
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 16
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 15
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 5
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "4bdfbbf3-c8f4-4112-b370-219f7746c718",
+    "name": "Chamelgon",
+    "familyId": 1,
+    "id": 32,
+    "skills": [
+      92,
+      93,
+      95
+    ],
+    "maxLvl": 50,
+    "expTableId": 19,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 7
+      },
+      {
+        "stat": "MP",
+        "growthRef": 8
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 6
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 8
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "64b286a7-9294-4bdd-97e2-956e9563b77f",
+    "name": "LizardFly",
+    "familyId": 1,
+    "id": 33,
+    "skills": [
+      45,
+      46,
+      151
+    ],
+    "maxLvl": 30,
+    "expTableId": 16,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 1
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 17
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 13
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 5
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "e67f30de-fa5d-416e-b671-5d6edc202be9",
+    "name": "Andreal",
+    "familyId": 1,
+    "id": 34,
+    "skills": [
+      70,
+      97,
+      133
+    ],
+    "maxLvl": 50,
+    "expTableId": 22,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 1
+      },
+      {
+        "stat": "MP",
+        "growthRef": 5
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 17
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 19
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 2
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "e427eb15-b139-48d6-9bcb-6095a83813ce",
+    "name": "KingCobra",
+    "familyId": 1,
+    "id": 35,
+    "skills": [
+      30,
+      72,
+      98
+    ],
+    "maxLvl": 40,
+    "expTableId": 20,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 8
+      },
+      {
+        "stat": "MP",
+        "growthRef": 8
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 13
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 19
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 1
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "2a30d9fc-c3e5-4c95-8fa4-d5c90b5880f9",
+    "name": "Spikerous",
+    "familyId": 1,
+    "id": 36,
+    "skills": [
+      8,
+      73,
+      107
+    ],
+    "maxLvl": 30,
+    "expTableId": 19,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 0
+      },
+      {
+        "stat": "MP",
+        "growthRef": 8
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 24
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 1
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 2
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "bae65bf6-8a30-4d1c-aa82-26f659a627fe",
+    "name": "GreatDrak",
+    "familyId": 1,
+    "id": 37,
+    "skills": [
+      51,
+      64,
+      131
+    ],
+    "maxLvl": 60,
+    "expTableId": 23,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 1
+      },
+      {
+        "stat": "MP",
+        "growthRef": 5
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 14
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 16
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 1
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "a37bf8ec-3a74-4cf8-855b-b834f9ec3dec",
+    "name": "Crestpent",
+    "familyId": 1,
+    "id": 38,
+    "skills": [
+      7,
+      98,
+      127
+    ],
+    "maxLvl": 35,
+    "expTableId": 18,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 4
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 5
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 19
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 8
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "94f826fd-5168-406c-ac17-6e9a5954eadb",
+    "name": "WingSnake",
+    "familyId": 1,
+    "id": 39,
+    "skills": [
+      60,
+      97,
+      125
+    ],
+    "maxLvl": 45,
+    "expTableId": 20,
+    "sexProbability": "MALE_FAVOR",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 5
+      },
+      {
+        "stat": "MP",
+        "growthRef": 8
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 17
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 14
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 1
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "58b48fa9-65db-4329-9ede-12e103569d00",
+    "name": "Coatol",
+    "familyId": 1,
+    "id": 40,
+    "skills": [
+      21,
+      42
+    ],
+    "maxLvl": 60,
+    "expTableId": 23,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 5
+      },
+      {
+        "stat": "MP",
+        "growthRef": 4
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 22
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 18
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 4
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "7d5b43de-b23d-433e-a9a7-42340937f3b4",
+    "name": "Orochi",
+    "familyId": 1,
+    "id": 41,
+    "skills": [
+      10,
+      45,
+      49
+    ],
+    "maxLvl": 60,
+    "expTableId": 22,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 3
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 21
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 11
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 8
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "3f3d72c8-a5c6-4163-bdd7-c64093f13002",
+    "name": "BattleRex",
+    "familyId": 1,
+    "id": 42,
+    "skills": [
+      42,
+      45,
+      86
+    ],
+    "maxLvl": 60,
+    "expTableId": 22,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 3
+      },
+      {
+        "stat": "MP",
+        "growthRef": 6
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 20
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 17
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 6
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "66708c27-96f6-497d-ab98-11f634c1efe3",
+    "name": "SkyDragon",
+    "familyId": 1,
+    "id": 43,
+    "skills": [
+      45,
+      88,
+      130
+    ],
+    "maxLvl": 35,
+    "expTableId": 18,
+    "sexProbability": "FEMALE_FAVOR",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 5
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 14
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 18
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 8
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "e8f2f5fc-54b6-4755-850a-5211505aa64a",
+    "name": "Divinegon",
+    "familyId": 1,
+    "id": 44,
+    "skills": [
+      11,
+      51,
+      84
+    ],
+    "maxLvl": 80,
+    "expTableId": 28,
+    "sexProbability": "FEMALE_FAVOR",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 6
+      },
+      {
+        "stat": "MP",
+        "growthRef": 5
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 24
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 20
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "e1755200-4256-48bf-a7dc-7313b607dcaf",
+    "name": "Tonguella",
+    "familyId": 2,
+    "id": 45,
+    "skills": [
+      79,
+      89,
+      117
+    ],
+    "maxLvl": 40,
+    "expTableId": 12,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 5
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 12
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 11
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 6
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "fc32991c-6908-43e5-a407-3fab42ee8ef7",
+    "name": "Almiraj",
+    "familyId": 2,
+    "id": 46,
+    "skills": [
+      8,
+      27,
+      116
+    ],
+    "maxLvl": 45,
+    "expTableId": 13,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 8
+      },
+      {
+        "stat": "MP",
+        "growthRef": 5
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 9
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 15
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 4
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "76c61c27-fcd5-4fdb-a805-95bfde88a16d",
+    "name": "Catfly",
+    "familyId": 2,
+    "id": 47,
+    "skills": [
+      91,
+      119,
+      127
+    ],
+    "maxLvl": 35,
+    "expTableId": 10,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 1
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 8
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 18
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 4
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "aaba4e7f-3d8f-4518-be59-9a0e9834704a",
+    "name": "PillowRat",
+    "familyId": 2,
+    "id": 48,
+    "skills": [
+      25,
+      103,
+      115
+    ],
+    "maxLvl": 50,
+    "expTableId": 11,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 7
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 8
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 19
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "fcc52550-5041-46c1-a120-437bf4e76582",
+    "name": "Saccer",
+    "familyId": 2,
+    "id": 49,
+    "skills": [
+      92,
+      99,
+      143
+    ],
+    "maxLvl": 40,
+    "expTableId": 9,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 6
+      },
+      {
+        "stat": "MP",
+        "growthRef": 5
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 17
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 0
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "78880a44-7ef2-4954-9de0-708591433cc2",
+    "name": "GulpBeast",
+    "familyId": 2,
+    "id": 50,
+    "skills": [
+      83,
+      103,
+      147
+    ],
+    "maxLvl": 45,
+    "expTableId": 13,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 13
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 7
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 1
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "e7d0e627-d424-49ad-8b37-e32c62aa1f82",
+    "name": "Skullroo",
+    "familyId": 2,
+    "id": 51,
+    "skills": [
+      27,
+      40,
+      94
+    ],
+    "maxLvl": 45,
+    "expTableId": 12,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 8
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 16
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 2
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "dba81a15-57e0-43f4-861c-0bdf33812f83",
+    "name": "WindBeast",
+    "familyId": 2,
+    "id": 52,
+    "skills": [
+      63,
+      70,
+      144
+    ],
+    "maxLvl": 50,
+    "expTableId": 12,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 3
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 15
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 15
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "02bf9a29-34de-4808-8204-db9b4d779161",
+    "name": "Anteater",
+    "familyId": 2,
+    "id": 53,
+    "skills": [
+      79,
+      86,
+      125
+    ],
+    "maxLvl": 40,
+    "expTableId": 8,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 7
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 11
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 9
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 1
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "7ae80625-af33-4210-b99b-ad0caa289180",
+    "name": "SuperTen",
+    "familyId": 2,
+    "id": 54,
+    "skills": [
+      61,
+      66,
+      72
+    ],
+    "maxLvl": 45,
+    "expTableId": 9,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 8
+      },
+      {
+        "stat": "MP",
+        "growthRef": 7
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 12
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 11
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 7
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "a4d1a03c-0cd3-4860-abcb-72225214d18e",
+    "name": "IronTurt",
+    "familyId": 2,
+    "id": 55,
+    "skills": [
+      29,
+      80,
+      129
+    ],
+    "maxLvl": 45,
+    "expTableId": 10,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 8
+      },
+      {
+        "stat": "MP",
+        "growthRef": 5
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 23
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 2
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 1
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "c163f401-fab8-467d-a6d0-9a277618da3a",
+    "name": "Mommonja",
+    "familyId": 2,
+    "id": 56,
+    "skills": [
+      63,
+      78,
+      87
+    ],
+    "maxLvl": 35,
+    "expTableId": 11,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 14
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 20
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 8
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "aec012e5-de73-4a0b-8593-28ec90f36085",
+    "name": "HammerMan",
+    "familyId": 2,
+    "id": 57,
+    "skills": [
+      27,
+      42,
+      73
+    ],
+    "maxLvl": 50,
+    "expTableId": 11,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 7
+      },
+      {
+        "stat": "MP",
+        "growthRef": 9
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 11
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 17
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 0
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "83803337-41d9-437e-8125-6c9ec1d0ad99",
+    "name": "Grizzly",
+    "familyId": 2,
+    "id": 58,
+    "skills": [
+      74,
+      125,
+      141
+    ],
+    "maxLvl": 40,
+    "expTableId": 14,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 0
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 7
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 9
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 1
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "7324c6dc-22bd-4420-8ac2-503618757f41",
+    "name": "Yeti",
+    "familyId": 2,
+    "id": 59,
+    "skills": [
+      63,
+      64,
+      147
+    ],
+    "maxLvl": 40,
+    "expTableId": 13,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 8
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 9
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 10
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 8
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "ee9f1702-1398-453d-b375-e3916ce2c5f4",
+    "name": "MadGopher",
+    "familyId": 2,
+    "id": 60,
+    "skills": [
+      13,
+      27,
+      154
+    ],
+    "maxLvl": 50,
+    "expTableId": 12,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 3
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 9
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 8
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 1
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "03480740-ff40-41b5-8bf1-0633d85a845f",
+    "name": "FairyRat",
+    "familyId": 2,
+    "id": 61,
+    "skills": [
+      119,
+      121,
+      133
+    ],
+    "maxLvl": 45,
+    "expTableId": 11,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 2
+      },
+      {
+        "stat": "MP",
+        "growthRef": 5
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 14
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 17
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 7
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "a3042edc-9421-492a-b6d2-169adba94f50",
+    "name": "Unicorn",
+    "familyId": 2,
+    "id": 62,
+    "skills": [
+      1,
+      54,
+      146
+    ],
+    "maxLvl": 50,
+    "expTableId": 14,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 9
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 13
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 12
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 5
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "33a57eaa-c6ab-4fa2-8808-e6eaf7fc3e39",
+    "name": "Goategon",
+    "familyId": 2,
+    "id": 63,
+    "skills": [
+      46,
+      117,
+      119
+    ],
+    "maxLvl": 40,
+    "expTableId": 11,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 9
+      },
+      {
+        "stat": "MP",
+        "growthRef": 9
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 13
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 17
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "58a7deff-4b95-4d8e-826e-0168936c516f",
+    "name": "WildApe",
+    "familyId": 2,
+    "id": 64,
+    "skills": [
+      25,
+      74,
+      141
+    ],
+    "maxLvl": 35,
+    "expTableId": 13,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 3
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 10
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 8
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 4
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "b039f076-6662-45c9-ab66-cc17225de3ab",
+    "name": "Trumpeter",
+    "familyId": 2,
+    "id": 65,
+    "skills": [
+      8,
+      110,
+      147
+    ],
+    "maxLvl": 50,
+    "expTableId": 14,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 7
+      },
+      {
+        "stat": "MP",
+        "growthRef": 8
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 17
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 14
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "69a41efb-069d-4d17-bf22-832f8c9a969a",
+    "name": "KingLeo",
+    "familyId": 2,
+    "id": 66,
+    "skills": [
+      10,
+      46,
+      51
+    ],
+    "maxLvl": 70,
+    "expTableId": 15,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 0
+      },
+      {
+        "stat": "MP",
+        "growthRef": 4
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 23
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 17
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 4
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "9f346181-3b00-4a72-a105-82aff1637dd0",
+    "name": "DarkHorn",
+    "familyId": 2,
+    "id": 67,
+    "skills": [
+      99,
+      116,
+      127
+    ],
+    "maxLvl": 50,
+    "expTableId": 13,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 7
+      },
+      {
+        "stat": "MP",
+        "growthRef": 4
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 18
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 10
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 2
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "3c94173c-9420-4b7e-a47e-c198b76315d1",
+    "name": "MadCat",
+    "familyId": 2,
+    "id": 68,
+    "skills": [
+      74,
+      125,
+      144
+    ],
+    "maxLvl": 40,
+    "expTableId": 12,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 5
+      },
+      {
+        "stat": "MP",
+        "growthRef": 7
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 14
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 17
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 1
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "a1e2b07b-2175-47d1-815c-d073221d409e",
+    "name": "BigEye",
+    "familyId": 2,
+    "id": 69,
+    "skills": [
+      51,
+      54,
+      63
+    ],
+    "maxLvl": 40,
+    "expTableId": 11,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 8
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 11
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 7
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 9
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "2a7ff876-1be4-4a11-8951-7f564eb0a2d2",
+    "name": "Picky",
+    "familyId": 3,
+    "id": 70,
+    "skills": [
+      111,
+      113,
+      133
+    ],
+    "maxLvl": 40,
+    "expTableId": 4,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 1
+      },
+      {
+        "stat": "MP",
+        "growthRef": 2
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 8
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 18
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "0a57f6f0-b6af-4b68-80f4-48e2f79ee4c5",
+    "name": "Wyvern",
+    "familyId": 3,
+    "id": 71,
+    "skills": [
+      51,
+      54,
+      116
+    ],
+    "maxLvl": 45,
+    "expTableId": 6,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 7
+      },
+      {
+        "stat": "MP",
+        "growthRef": 3
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 11
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 16
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 0
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "ea1278ff-39e3-4790-a252-fdddf4a33539",
+    "name": "BullBird",
+    "familyId": 3,
+    "id": 72,
+    "skills": [
+      24,
+      27,
+      103
+    ],
+    "maxLvl": 35,
+    "expTableId": 5,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 8
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 9
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 6
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 4
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "9fa41f95-5a0f-459d-8268-e2ee8cf76efd",
+    "name": "FloraJay",
+    "familyId": 3,
+    "id": 73,
+    "skills": [
+      5,
+      40,
+      76,
+      123
+    ],
+    "maxLvl": 50,
+    "expTableId": 5,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 6
+      },
+      {
+        "stat": "MP",
+        "growthRef": 8
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 3
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 21
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 9
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "f4f16a82-0005-46a6-afde-ddba22355a4b",
+    "name": "DuckKite",
+    "familyId": 3,
+    "id": 74,
+    "skills": [
+      30,
+      93,
+      116
+    ],
+    "maxLvl": 30,
+    "expTableId": 3,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 1
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 12
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 18
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 7
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "73379ab7-0237-4466-90d0-cd8acc8ab7af",
+    "name": "MadPecker",
+    "familyId": 3,
+    "id": 75,
+    "skills": [
+      70,
+      111,
+      144
+    ],
+    "maxLvl": 40,
+    "expTableId": 4,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 9
+      },
+      {
+        "stat": "MP",
+        "growthRef": 7
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 14
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 23
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "08d3446a-19e1-4341-91c5-a97eae8dd645",
+    "name": "MadRaven",
+    "familyId": 3,
+    "id": 76,
+    "skills": [
+      60,
+      134
+    ],
+    "maxLvl": 45,
+    "expTableId": 5,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 6
+      },
+      {
+        "stat": "MP",
+        "growthRef": 4
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 12
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 18
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 5
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "954548e0-5b23-4473-bf3c-ad2abb8d2148",
+    "name": "MistyWing",
+    "familyId": 3,
+    "id": 77,
+    "skills": [
+      3,
+      41,
+      133
+    ],
+    "maxLvl": 50,
+    "expTableId": 5,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 2
+      },
+      {
+        "stat": "MP",
+        "growthRef": 7
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 15
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 22
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "da1f1e49-fadd-457a-a235-c857b11d32d0",
+    "name": "Dracky",
+    "familyId": 3,
+    "id": 78,
+    "skills": [
+      1,
+      106,
+      116
+    ],
+    "maxLvl": 40,
+    "expTableId": 2,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 1
+      },
+      {
+        "stat": "MP",
+        "growthRef": 4
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 13
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 17
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 1
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "b53289b7-4fae-4462-8a14-76b225bdd148",
+    "name": "BigRoost",
+    "familyId": 3,
+    "id": 79,
+    "skills": [
+      39,
+      110,
+      144
+    ],
+    "maxLvl": 40,
+    "expTableId": 3,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 8
+      },
+      {
+        "stat": "MP",
+        "growthRef": 5
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 12
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 17
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 8
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "fca366c3-4a95-4453-801d-b83ab2a191ab",
+    "name": "StubBird",
+    "familyId": 3,
+    "id": 80,
+    "skills": [
+      102,
+      113,
+      140
+    ],
+    "maxLvl": 40,
+    "expTableId": 6,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 6
+      },
+      {
+        "stat": "MP",
+        "growthRef": 2
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 20
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 14
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 1
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "234b299b-fef8-4636-b9e9-5c6de0d756bb",
+    "name": "LandOwl",
+    "familyId": 3,
+    "id": 81,
+    "skills": [
+      21,
+      70,
+      115
+    ],
+    "maxLvl": 35,
+    "expTableId": 7,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 5
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 13
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 11
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 8
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "0468692c-307b-443c-8a06-621648c013b0",
+    "name": "MadGoose",
+    "familyId": 3,
+    "id": 82,
+    "skills": [
+      78,
+      91,
+      93
+    ],
+    "maxLvl": 30,
+    "expTableId": 5,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 7
+      },
+      {
+        "stat": "MP",
+        "growthRef": 6
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 15
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 20
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 8
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "0391b189-ed4f-4079-932c-511ecd0df2d6",
+    "name": "MadCondor",
+    "familyId": 3,
+    "id": 83,
+    "skills": [
+      46,
+      57,
+      88
+    ],
+    "maxLvl": 50,
+    "expTableId": 6,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 12
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 17
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "f9636bf3-0400-4101-8d5f-4422e03ae4f0",
+    "name": "Blizzardy",
+    "familyId": 3,
+    "id": 84,
+    "skills": [
+      6,
+      51,
+      64
+    ],
+    "maxLvl": 50,
+    "expTableId": 7,
+    "sexProbability": "FEMALE_FAVOR",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 0
+      },
+      {
+        "stat": "MP",
+        "growthRef": 7
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 17
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 19
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 1
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "98f6e9d0-3780-430d-91c7-78e5282afb12",
+    "name": "Phoenix",
+    "familyId": 3,
+    "id": 85,
+    "skills": [
+      45,
+      125,
+      134
+    ],
+    "maxLvl": 50,
+    "expTableId": 7,
+    "sexProbability": "MALE_FAVOR",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 6
+      },
+      {
+        "stat": "MP",
+        "growthRef": 3
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 8
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 19
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 2
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "6f3ff2ba-3b4f-4454-8497-95f6db0b6127",
+    "name": "ZapBird",
+    "familyId": 3,
+    "id": 86,
+    "skills": [
+      21,
+      59,
+      77
+    ],
+    "maxLvl": 50,
+    "expTableId": 7,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 0
+      },
+      {
+        "stat": "MP",
+        "growthRef": 7
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 17
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 22
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 2
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "687e7be9-7042-4fa9-8f0e-dda74930b9a1",
+    "name": "WhipBird",
+    "familyId": 3,
+    "id": 87,
+    "skills": [
+      71,
+      136,
+      137
+    ],
+    "maxLvl": 60,
+    "expTableId": 15,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 7
+      },
+      {
+        "stat": "MP",
+        "growthRef": 9
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 20
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 23
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "36052172-dd2b-4bae-9b56-e744d6897698",
+    "name": "FunkyBird",
+    "familyId": 3,
+    "id": 88,
+    "skills": [
+      61,
+      75,
+      94
+    ],
+    "maxLvl": 50,
+    "expTableId": 5,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 9
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 16
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 0
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "8f4ca338-9c25-4df7-8a88-573c9dd79619",
+    "name": "RainHawk",
+    "familyId": 3,
+    "id": 89,
+    "skills": [
+      85,
+      129,
+      132
+    ],
+    "maxLvl": 70,
+    "expTableId": 24,
+    "sexProbability": "MALE_FAVOR",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 5
+      },
+      {
+        "stat": "MP",
+        "growthRef": 7
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 24
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 18
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 4
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "84dcbc0e-87ae-4550-810c-a516b7de3977",
+    "name": "MadPlant",
+    "familyId": 4,
+    "id": 90,
+    "skills": [
+      90,
+      111,
+      119
+    ],
+    "maxLvl": 40,
+    "expTableId": 10,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 5
+      },
+      {
+        "stat": "MP",
+        "growthRef": 4
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 13
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 6
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 8
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "67b2f48f-f08d-4c86-b02e-f0cbf7d71839",
+    "name": "FireWeed",
+    "familyId": 4,
+    "id": 91,
+    "skills": [
+      15,
+      33,
+      92
+    ],
+    "maxLvl": 45,
+    "expTableId": 15,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 6
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 12
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 5
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 7
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "d087d9c2-663c-4a76-aa22-772766ab59b7",
+    "name": "FloraMan",
+    "familyId": 4,
+    "id": 92,
+    "skills": [
+      1,
+      31,
+      46
+    ],
+    "maxLvl": 35,
+    "expTableId": 7,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 7
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 9
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 2
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 9
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "0eb78b3f-3d41-4621-9665-1a60f4ea5e85",
+    "name": "WingTree",
+    "familyId": 4,
+    "id": 93,
+    "skills": [
+      44,
+      126,
+      154
+    ],
+    "maxLvl": 35,
+    "expTableId": 7,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 2
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 11
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 14
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 7
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "04505f4e-fe28-4f9e-893f-f7be944318f5",
+    "name": "CactiBall",
+    "familyId": 4,
+    "id": 94,
+    "skills": [
+      60,
+      91,
+      95
+    ],
+    "maxLvl": 30,
+    "expTableId": 6,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 8
+      },
+      {
+        "stat": "MP",
+        "growthRef": 8
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 15
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 9
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 5
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "6a89ec72-d304-4434-bf8e-4ba281596a84",
+    "name": "Gulpple",
+    "familyId": 4,
+    "id": 95,
+    "skills": [
+      70,
+      89,
+      116
+    ],
+    "maxLvl": 40,
+    "expTableId": 11,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 6
+      },
+      {
+        "stat": "MP",
+        "growthRef": 7
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 6
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 2
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 4
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "8be97b6d-74f0-44fa-979c-77face01c8db",
+    "name": "Toadstool",
+    "familyId": 4,
+    "id": 96,
+    "skills": [
+      87,
+      89,
+      116,
+      117
+    ],
+    "maxLvl": 45,
+    "expTableId": 9,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 8
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 9
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 13
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "aa743431-3782-48c2-aff7-6f11eaba7f4e",
+    "name": "AmberWeed",
+    "familyId": 4,
+    "id": 97,
+    "skills": [
+      3,
+      81,
+      140
+    ],
+    "maxLvl": 50,
+    "expTableId": 12,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 2
+      },
+      {
+        "stat": "MP",
+        "growthRef": 4
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 17
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 12
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 0
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "68f85fa4-8fd3-434c-a34f-08f58731dc69",
+    "name": "Stubsuck",
+    "familyId": 4,
+    "id": 98,
+    "skills": [
+      116,
+      126,
+      154
+    ],
+    "maxLvl": 40,
+    "expTableId": 8,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 7
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 2
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 9
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 4
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "2fae5c12-acc6-4f08-bd85-ef9e60a129dd",
+    "name": "Oniono",
+    "familyId": 4,
+    "id": 99,
+    "skills": [
+      27,
+      106,
+      117
+    ],
+    "maxLvl": 35,
+    "expTableId": 9,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 3
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 11
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 3
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 6
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "b2985d47-bc9a-405e-af40-e9dfd2d26ef1",
+    "name": "DanceVegi",
+    "familyId": 4,
+    "id": 100,
+    "skills": [
+      72,
+      78,
+      115
+    ],
+    "maxLvl": 50,
+    "expTableId": 12,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 1
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 6
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 20
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 1
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "b3fce14e-fdf3-4a3f-b095-67e041186628",
+    "name": "TreeBoy",
+    "familyId": 4,
+    "id": 101,
+    "skills": [
+      31,
+      54,
+      63
+    ],
+    "maxLvl": 40,
+    "expTableId": 11,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 5
+      },
+      {
+        "stat": "MP",
+        "growthRef": 8
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 3
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 12
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 5
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "02d87a3e-f66a-4cfe-9326-3c299a3a0719",
+    "name": "FaceTree",
+    "familyId": 4,
+    "id": 102,
+    "skills": [
+      30,
+      91,
+      127
+    ],
+    "maxLvl": 45,
+    "expTableId": 9,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 2
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 8
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 10
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 7
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "0ddbe83c-c2b3-48f4-8bb9-57275f6700be",
+    "name": "HerbMan",
+    "familyId": 4,
+    "id": 103,
+    "skills": [
+      30,
+      32,
+      50
+    ],
+    "maxLvl": 40,
+    "expTableId": 13,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 9
+      },
+      {
+        "stat": "MP",
+        "growthRef": 7
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 10
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 15
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "e8b126a3-f3c7-48c3-b034-3207e13f6068",
+    "name": "BeanMan",
+    "familyId": 4,
+    "id": 104,
+    "skills": [
+      82,
+      106,
+      140
+    ],
+    "maxLvl": 35,
+    "expTableId": 10,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 5
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 14
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 15
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 9
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "87d35211-720c-4bde-b57a-1eb1f684c709",
+    "name": "EvilSeed",
+    "familyId": 4,
+    "id": 105,
+    "skills": [
+      28,
+      95,
+      101
+    ],
+    "maxLvl": 30,
+    "expTableId": 6,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 8
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 5
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 1
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "7a693767-75b9-4b78-b9ab-56be8ede3225",
+    "name": "ManEater",
+    "familyId": 4,
+    "id": 106,
+    "skills": [
+      99,
+      117
+    ],
+    "maxLvl": 50,
+    "expTableId": 9,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 2
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 7
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 10
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 6
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "84567dcd-2956-49d2-87d8-e901a7cf00cd",
+    "name": "Snapper",
+    "familyId": 4,
+    "id": 107,
+    "skills": [
+      25,
+      102,
+      127
+    ],
+    "maxLvl": 60,
+    "expTableId": 11,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 7
+      },
+      {
+        "stat": "MP",
+        "growthRef": 4
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 13
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 10
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 6
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "dbdad55f-8ad6-4e4f-9268-2a8c94c3fc1e",
+    "name": "Rosevine",
+    "familyId": 4,
+    "id": 108,
+    "skills": [
+      10,
+      14,
+      142
+    ],
+    "maxLvl": 80,
+    "expTableId": 24,
+    "sexProbability": "FEMALE_FAVOR",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 21
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 18
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 8
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "f2177390-c0ee-4ada-b957-4ad1853b35a5",
+    "name": "Watabou",
+    "familyId": 4,
+    "id": 109,
+    "skills": [
+      26,
+      66,
+      148
+    ],
+    "maxLvl": 80,
+    "expTableId": 0,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 0
+      },
+      {
+        "stat": "MP",
+        "growthRef": 7
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 14
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 24
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 0
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "b4563a99-8796-4535-8e52-f091953b07e4",
+    "name": "GiantSlug",
+    "familyId": 5,
+    "id": 110,
+    "skills": [
+      39,
+      79,
+      148
+    ],
+    "maxLvl": 35,
+    "expTableId": 2,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 1
+      },
+      {
+        "stat": "MP",
+        "growthRef": 8
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 9
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 11
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 7
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "c1ab951b-fa62-4b06-9544-efac9d5c498f",
+    "name": "Catapila",
+    "familyId": 5,
+    "id": 111,
+    "skills": [
+      97,
+      137,
+      143
+    ],
+    "maxLvl": 40,
+    "expTableId": 4,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 3
+      },
+      {
+        "stat": "MP",
+        "growthRef": 5
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 14
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 11
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 9
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "abf7b20a-5bb9-4f97-a767-472f7ec9166c",
+    "name": "Gophecada",
+    "familyId": 5,
+    "id": 112,
+    "skills": [
+      6,
+      25,
+      80
+    ],
+    "maxLvl": 30,
+    "expTableId": 1,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 6
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 18
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 8
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 7
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "d92e0561-a9c1-4232-8c78-3f71c2f548b8",
+    "name": "Butterfly",
+    "familyId": 5,
+    "id": 113,
+    "skills": [
+      25,
+      30,
+      133
+    ],
+    "maxLvl": 30,
+    "expTableId": 0,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 1
+      },
+      {
+        "stat": "MP",
+        "growthRef": 2
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 7
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 12
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 8
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "386da40b-d683-4c49-a1e1-2444d2a1fb9b",
+    "name": "WeedBug",
+    "familyId": 5,
+    "id": 114,
+    "skills": [
+      3,
+      81,
+      106
+    ],
+    "maxLvl": 45,
+    "expTableId": 4,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 7
+      },
+      {
+        "stat": "MP",
+        "growthRef": 3
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 12
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 5
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 9
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "3ff6e841-56e1-4e0c-bcb7-8e0b4fe829c8",
+    "name": "GiantWorm",
+    "familyId": 5,
+    "id": 115,
+    "skills": [
+      5,
+      40,
+      91,
+      126
+    ],
+    "maxLvl": 35,
+    "expTableId": 6,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 3
+      },
+      {
+        "stat": "MP",
+        "growthRef": 8
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 8
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 13
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 4
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "568c9f9f-5468-4531-8f66-8c42cc132106",
+    "name": "Lipsy",
+    "familyId": 5,
+    "id": 116,
+    "skills": [
+      0,
+      79,
+      89
+    ],
+    "maxLvl": 40,
+    "expTableId": 4,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 2
+      },
+      {
+        "stat": "MP",
+        "growthRef": 8
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 9
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 4
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 1
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "47ebf077-be8c-4e19-99cb-f60247bd0712",
+    "name": "StagBug",
+    "familyId": 5,
+    "id": 117,
+    "skills": [
+      45,
+      74,
+      116
+    ],
+    "maxLvl": 45,
+    "expTableId": 3,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 3
+      },
+      {
+        "stat": "MP",
+        "growthRef": 7
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 20
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 9
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 7
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "6753eb7c-78c9-41a9-a2d6-37628547aa17",
+    "name": "ArmyAnt",
+    "familyId": 5,
+    "id": 118,
+    "skills": [
+      25,
+      73,
+      89
+    ],
+    "maxLvl": 35,
+    "expTableId": 2,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 8
+      },
+      {
+        "stat": "MP",
+        "growthRef": 4
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 17
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 13
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 1
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "ecc7f02a-3770-4a5a-b7b9-e3b04f5c8d1d",
+    "name": "GoHopper",
+    "familyId": 5,
+    "id": 119,
+    "skills": [
+      25,
+      27,
+      106
+    ],
+    "maxLvl": 35,
+    "expTableId": 0,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 1
+      },
+      {
+        "stat": "MP",
+        "growthRef": 4
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 14
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 14
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 4
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "77f22a94-6adb-4033-87f1-1de07564a7e3",
+    "name": "TailEater",
+    "familyId": 5,
+    "id": 120,
+    "skills": [
+      64,
+      97,
+      101
+    ],
+    "maxLvl": 45,
+    "expTableId": 5,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 2
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 11
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 14
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 5
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "270ceae0-0de3-4dee-bbbe-12fabc930266",
+    "name": "ArmorPede",
+    "familyId": 5,
+    "id": 121,
+    "skills": [
+      140,
+      141,
+      143
+    ],
+    "maxLvl": 30,
+    "expTableId": 6,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 5
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 20
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 11
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 2
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "80c3ac62-8ec9-4902-8426-d7801c92d7c0",
+    "name": "Eyeder",
+    "familyId": 5,
+    "id": 122,
+    "skills": [
+      46,
+      54,
+      82
+    ],
+    "maxLvl": 45,
+    "expTableId": 4,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 9
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 3
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 10
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 9
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "caf7a5c2-f43e-4b4c-aed3-846c93b13541",
+    "name": "GiantMoth",
+    "familyId": 5,
+    "id": 123,
+    "skills": [
+      95,
+      101,
+      151
+    ],
+    "maxLvl": 30,
+    "expTableId": 2,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 9
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 12
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 20
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 2
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "2647a50c-520f-4fc3-aa59-5fbef773af53",
+    "name": "Droll",
+    "familyId": 5,
+    "id": 124,
+    "skills": [
+      24,
+      119,
+      126
+    ],
+    "maxLvl": 40,
+    "expTableId": 5,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 7
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 16
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 7
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 4
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "41ac3179-e7a5-461e-bfcf-e14e77a39e35",
+    "name": "ArmyCrab",
+    "familyId": 5,
+    "id": 125,
+    "skills": [
+      25,
+      86,
+      143
+    ],
+    "maxLvl": 40,
+    "expTableId": 6,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 6
+      },
+      {
+        "stat": "MP",
+        "growthRef": 8
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 19
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 5
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 1
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "b5405288-d1db-4cc3-9887-6168b45f31a4",
+    "name": "MadHornet",
+    "familyId": 5,
+    "id": 126,
+    "skills": [
+      95,
+      98,
+      134
+    ],
+    "maxLvl": 40,
+    "expTableId": 7,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 0
+      },
+      {
+        "stat": "MP",
+        "growthRef": 5
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 13
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 20
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 4
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "899084f2-569e-4942-9e09-ca0a13bffdaf",
+    "name": "HornBeet",
+    "familyId": 5,
+    "id": 127,
+    "skills": [
+      21,
+      37,
+      107
+    ],
+    "maxLvl": 50,
+    "expTableId": 7,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 1
+      },
+      {
+        "stat": "MP",
+        "growthRef": 9
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 20
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 12
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 4
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "1f475427-24e7-4233-a5cf-4205c1ab2eb5",
+    "name": "Armorpion",
+    "familyId": 5,
+    "id": 128,
+    "skills": [
+      42,
+      102,
+      154
+    ],
+    "maxLvl": 60,
+    "expTableId": 24,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 2
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 23
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 15
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 8
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "a8d7a2f1-3932-4311-8c82-26c5ecdf5ddf",
+    "name": "Digster",
+    "familyId": 5,
+    "id": 129,
+    "skills": [
+      44,
+      129,
+      131
+    ],
+    "maxLvl": 50,
+    "expTableId": 11,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 26
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 1
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 5
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "483b86c1-fbcf-4cda-bf2b-d27400b2806b",
+    "name": "Pixy",
+    "familyId": 6,
+    "id": 130,
+    "skills": [
+      1,
+      123,
+      140
+    ],
+    "maxLvl": 40,
+    "expTableId": 19,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 1
+      },
+      {
+        "stat": "MP",
+        "growthRef": 7
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 8
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 15
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 4
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "0eeb042f-44ec-4608-8687-ab685fab350c",
+    "name": "ArcDemon",
+    "familyId": 6,
+    "id": 131,
+    "skills": [
+      2,
+      13,
+      21
+    ],
+    "maxLvl": 45,
+    "expTableId": 20,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 3
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 12
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 7
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 1
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "9e2d8c63-55d2-4146-bbcd-e3755bfb539f",
+    "name": "AgDevil",
+    "familyId": 6,
+    "id": 132,
+    "skills": [
+      46,
+      108,
+      117
+    ],
+    "maxLvl": 35,
+    "expTableId": 16,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 6
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 12
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 16
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 9
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "0ad69f7e-72bd-4975-87f0-a84d26a33cc1",
+    "name": "Demonite",
+    "familyId": 6,
+    "id": 133,
+    "skills": [
+      15,
+      49,
+      51
+    ],
+    "maxLvl": 25,
+    "expTableId": 13,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 3
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 4
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 9
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 0
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "68111817-5768-475f-a425-28fad2961a56",
+    "name": "DarkEye",
+    "familyId": 6,
+    "id": 134,
+    "skills": [
+      86,
+      92,
+      101
+    ],
+    "maxLvl": 50,
+    "expTableId": 18,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 1
+      },
+      {
+        "stat": "MP",
+        "growthRef": 8
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 16
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 9
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 2
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "8f3a7628-2988-45af-a0e4-c0851ad18b8a",
+    "name": "EyeBall",
+    "familyId": 6,
+    "id": 135,
+    "skills": [
+      71,
+      80,
+      147
+    ],
+    "maxLvl": 35,
+    "expTableId": 16,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 6
+      },
+      {
+        "stat": "MP",
+        "growthRef": 7
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 14
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 13
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 8
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "22b9a9de-ca5e-4aab-9fcb-1da73def1636",
+    "name": "SkulRider",
+    "familyId": 6,
+    "id": 136,
+    "skills": [
+      49,
+      74,
+      102
+    ],
+    "maxLvl": 45,
+    "expTableId": 18,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 7
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 13
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 15
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 2
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "ea2a821e-2787-47b9-b2d9-c0fefa9a7ff9",
+    "name": "EvilBeast",
+    "familyId": 6,
+    "id": 137,
+    "skills": [
+      46,
+      51,
+      71
+    ],
+    "maxLvl": 50,
+    "expTableId": 20,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 6
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 22
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 4
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 2
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "c8f01f58-ed61-434d-acb5-c24d9f159a99",
+    "name": "1EyeClown",
+    "familyId": 6,
+    "id": 138,
+    "skills": [
+      15,
+      46,
+      63
+    ],
+    "maxLvl": 25,
+    "expTableId": 13,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 0
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 9
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 9
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 7
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "c2f31739-5ae1-4180-9055-a74d15256c29",
+    "name": "Gremlin",
+    "familyId": 6,
+    "id": 139,
+    "skills": [
+      46,
+      54,
+      127
+    ],
+    "maxLvl": 25,
+    "expTableId": 13,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 3
+      },
+      {
+        "stat": "MP",
+        "growthRef": 7
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 4
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 2
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 8
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "a023a215-f1e7-4bc9-9513-8b8ea46410ef",
+    "name": "MedusaEye",
+    "familyId": 6,
+    "id": 140,
+    "skills": [
+      24,
+      111,
+      133
+    ],
+    "maxLvl": 35,
+    "expTableId": 19,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 1
+      },
+      {
+        "stat": "MP",
+        "growthRef": 3
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 15
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 8
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 1
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "661a5983-b2d3-41f8-ba91-55f9877da4dc",
+    "name": "Lionex",
+    "familyId": 6,
+    "id": 141,
+    "skills": [
+      57,
+      70,
+      144
+    ],
+    "maxLvl": 45,
+    "expTableId": 21,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 5
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 15
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 12
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 9
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "846a4be0-dfb2-4026-b73e-d856b67fc59d",
+    "name": "GoatHorn",
+    "familyId": 6,
+    "id": 142,
+    "skills": [
+      2,
+      63,
+      70
+    ],
+    "maxLvl": 35,
+    "expTableId": 22,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 0
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 13
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 11
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 0
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "79ec7eb3-966a-44dc-a0f2-b1592c779023",
+    "name": "Orc",
+    "familyId": 6,
+    "id": 143,
+    "skills": [
+      13,
+      111,
+      146
+    ],
+    "maxLvl": 50,
+    "expTableId": 17,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 9
+      },
+      {
+        "stat": "MP",
+        "growthRef": 7
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 13
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 13
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 8
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "9bbe75d1-49f8-4f8c-b143-748c0727ec98",
+    "name": "Ogre",
+    "familyId": 6,
+    "id": 144,
+    "skills": [
+      83,
+      86,
+      102
+    ],
+    "maxLvl": 35,
+    "expTableId": 19,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 5
+      },
+      {
+        "stat": "MP",
+        "growthRef": 8
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 12
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 10
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 2
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "2a29f5da-dc81-4003-9bb8-d83ce40ca1a5",
+    "name": "GateGuard",
+    "familyId": 6,
+    "id": 145,
+    "skills": [
+      15,
+      28,
+      137
+    ],
+    "maxLvl": 50,
+    "expTableId": 23,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 8
+      },
+      {
+        "stat": "MP",
+        "growthRef": 2
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 14
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 10
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 4
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "285deada-4a3a-49a3-8683-68bfb3ff1da6",
+    "name": "ChopClown",
+    "familyId": 6,
+    "id": 146,
+    "skills": [
+      125,
+      140,
+      144
+    ],
+    "maxLvl": 50,
+    "expTableId": 22,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 7
+      },
+      {
+        "stat": "MP",
+        "growthRef": 2
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 11
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 20
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 5
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "64b2f924-9e0e-4d23-8ade-9b943e5c55a7",
+    "name": "Grendal",
+    "familyId": 6,
+    "id": 147,
+    "skills": [
+      29,
+      49
+    ],
+    "maxLvl": 60,
+    "expTableId": 20,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 3
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 24
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 12
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 2
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "cd555ea9-d4fa-49d0-b63c-9f129d7789ad",
+    "name": "Akubar",
+    "familyId": 6,
+    "id": 148,
+    "skills": [
+      2,
+      50,
+      51
+    ],
+    "maxLvl": 80,
+    "expTableId": 30,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 21
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 18
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 1
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "3b2fc364-b817-41b7-9ca3-f2e4378735fc",
+    "name": "MadKnight",
+    "familyId": 6,
+    "id": 149,
+    "skills": [
+      5,
+      40,
+      52,
+      83
+    ],
+    "maxLvl": 50,
+    "expTableId": 23,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 7
+      },
+      {
+        "stat": "MP",
+        "growthRef": 9
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 20
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 10
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 2
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "61a03ae3-4a70-45f4-97fe-4a60d756dba6",
+    "name": "Gigantes",
+    "familyId": 6,
+    "id": 150,
+    "skills": [
+      27,
+      42,
+      154
+    ],
+    "maxLvl": 35,
+    "expTableId": 22,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 7
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 7
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 0
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 0
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "e5861cd3-00eb-41b9-969f-aa82ba3be8da",
+    "name": "Centasaur",
+    "familyId": 6,
+    "id": 151,
+    "skills": [
+      49,
+      102,
+      127
+    ],
+    "maxLvl": 45,
+    "expTableId": 23,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 0
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 21
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 18
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 9
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "a6f20f6d-1096-4c3c-b3cd-1b8376cb197d",
+    "name": "EvilArmor",
+    "familyId": 6,
+    "id": 152,
+    "skills": [
+      21,
+      49
+    ],
+    "maxLvl": 30,
+    "expTableId": 22,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 6
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 29
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 5
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "2ee79501-9681-437e-b439-1691bd3f1c58",
+    "name": "Jamirus",
+    "familyId": 6,
+    "id": 153,
+    "skills": [
+      10,
+      15,
+      134
+    ],
+    "maxLvl": 60,
+    "expTableId": 21,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 9
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 24
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 23
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 8
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "ec6808e6-1888-46c1-b15e-c6c85a2ba313",
+    "name": "Durran",
+    "familyId": 6,
+    "id": 154,
+    "skills": [
+      13,
+      151
+    ],
+    "maxLvl": 70,
+    "expTableId": 28,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 5
+      },
+      {
+        "stat": "MP",
+        "growthRef": 4
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 15
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 17
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 0
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "4afaece1-aa5d-4952-885c-7516669f5e4d",
+    "name": "Spooky",
+    "familyId": 7,
+    "id": 155,
+    "skills": [
+      79,
+      87,
+      101
+    ],
+    "maxLvl": 40,
+    "expTableId": 11,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 1
+      },
+      {
+        "stat": "MP",
+        "growthRef": 2
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 8
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 18
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 5
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "742c8808-e0b7-4f77-a8aa-34a1ab7d8d09",
+    "name": "Skullgon",
+    "familyId": 7,
+    "id": 156,
+    "skills": [
+      51,
+      64,
+      141
+    ],
+    "maxLvl": 45,
+    "expTableId": 13,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 6
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 15
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 4
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 6
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "638084c1-7e4c-446b-abd6-45fef5c26dfc",
+    "name": "Putrepup",
+    "familyId": 7,
+    "id": 157,
+    "skills": [
+      80,
+      111,
+      119
+    ],
+    "maxLvl": 35,
+    "expTableId": 6,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 7
+      },
+      {
+        "stat": "MP",
+        "growthRef": 3
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 8
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 11
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 4
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "ff990d35-254a-42e5-9775-702ba5a758d6",
+    "name": "RotRaven",
+    "familyId": 7,
+    "id": 158,
+    "skills": [
+      21,
+      73,
+      77
+    ],
+    "maxLvl": 35,
+    "expTableId": 5,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 8
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 11
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 18
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 9
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "fe6fd91e-5eed-4e62-8d9a-175da4ae5154",
+    "name": "Mummy",
+    "familyId": 7,
+    "id": 159,
+    "skills": [
+      25,
+      42,
+      95
+    ],
+    "maxLvl": 50,
+    "expTableId": 10,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 5
+      },
+      {
+        "stat": "MP",
+        "growthRef": 7
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 9
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 4
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 8
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "7bb6f685-70e3-499a-9ba2-55f26d19b8f9",
+    "name": "DarkCrab",
+    "familyId": 7,
+    "id": 160,
+    "skills": [
+      71,
+      81,
+      126
+    ],
+    "maxLvl": 30,
+    "expTableId": 8,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 2
+      },
+      {
+        "stat": "MP",
+        "growthRef": 8
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 20
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 1
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 1
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "eb00627c-b766-4eb0-bfb8-56fd6f965193",
+    "name": "DeadNite",
+    "familyId": 7,
+    "id": 161,
+    "skills": [
+      31,
+      54
+    ],
+    "maxLvl": 45,
+    "expTableId": 13,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 7
+      },
+      {
+        "stat": "MP",
+        "growthRef": 7
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 9
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 12
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 8
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "c60857ea-4875-4e75-a5e1-b101d3b3b530",
+    "name": "Shadow",
+    "familyId": 7,
+    "id": 162,
+    "skills": [
+      33,
+      51,
+      72,
+      137
+    ],
+    "maxLvl": 50,
+    "expTableId": 12,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 9
+      },
+      {
+        "stat": "MP",
+        "growthRef": 6
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 20
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 8
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 2
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "cdf6f677-3be6-4daa-ad21-d63eb510118a",
+    "name": "Hork",
+    "familyId": 7,
+    "id": 163,
+    "skills": [
+      41,
+      79,
+      97
+    ],
+    "maxLvl": 40,
+    "expTableId": 8,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 7
+      },
+      {
+        "stat": "MP",
+        "growthRef": 3
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 8
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 11
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 0
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "8e90d230-1ae4-4ffe-ae96-c06ecb1c99f0",
+    "name": "Mudron",
+    "familyId": 7,
+    "id": 164,
+    "skills": [
+      6,
+      54,
+      146
+    ],
+    "maxLvl": 30,
+    "expTableId": 10,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 6
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 17
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 7
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 4
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "e030f61a-88dd-4acc-b700-aabd61ba6f47",
+    "name": "NiteWhip",
+    "familyId": 7,
+    "id": 165,
+    "skills": [
+      45,
+      77,
+      151
+    ],
+    "maxLvl": 35,
+    "expTableId": 12,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 7
+      },
+      {
+        "stat": "MP",
+        "growthRef": 4
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 3
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 15
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 9
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "fb09e763-d328-42ca-a541-b6834bf54b0a",
+    "name": "MadSpirit",
+    "familyId": 7,
+    "id": 166,
+    "skills": [
+      101,
+      117,
+      137
+    ],
+    "maxLvl": 50,
+    "expTableId": 13,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 2
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 12
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 16
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 0
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "781cd4c1-6eab-4a0b-8647-dbb8eedf466b",
+    "name": "WindMerge",
+    "familyId": 7,
+    "id": 167,
+    "skills": [
+      3,
+      31,
+      70
+    ],
+    "maxLvl": 35,
+    "expTableId": 9,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 6
+      },
+      {
+        "stat": "MP",
+        "growthRef": 9
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 12
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 13
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 6
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "ceab67b0-3ce9-4be2-9c9a-eca705f6edb6",
+    "name": "Reaper",
+    "familyId": 7,
+    "id": 168,
+    "skills": [
+      30,
+      37,
+      41
+    ],
+    "maxLvl": 50,
+    "expTableId": 10,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 9
+      },
+      {
+        "stat": "MP",
+        "growthRef": 3
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 17
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 19
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 6
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "6edb8c5e-0b9c-4962-9d56-d3c3f31248de",
+    "name": "DeadNoble",
+    "familyId": 7,
+    "id": 169,
+    "skills": [
+      6,
+      57,
+      136
+    ],
+    "maxLvl": 50,
+    "expTableId": 16,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 1
+      },
+      {
+        "stat": "MP",
+        "growthRef": 2
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 19
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 15
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "35a1e55c-2979-4989-960b-a7d37b73ee1d",
+    "name": "WhiteKing",
+    "familyId": 7,
+    "id": 170,
+    "skills": [
+      20,
+      26,
+      70
+    ],
+    "maxLvl": 70,
+    "expTableId": 25,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 0
+      },
+      {
+        "stat": "MP",
+        "growthRef": 4
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 20
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 15
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 7
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "efd4f7aa-0804-4fd1-8332-eb0ebfcaf896",
+    "name": "BoneSlave",
+    "familyId": 7,
+    "id": 171,
+    "skills": [
+      2,
+      13,
+      21
+    ],
+    "maxLvl": 40,
+    "expTableId": 10,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 3
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 12
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 7
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 1
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "dede1224-9d3d-4b17-929c-1f94ad779387",
+    "name": "Skeletor",
+    "familyId": 7,
+    "id": 172,
+    "skills": [
+      10,
+      13,
+      111
+    ],
+    "maxLvl": 60,
+    "expTableId": 12,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 6
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 12
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 16
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 9
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "174f8fd5-c254-4319-a96b-7ceb0686f641",
+    "name": "Servant",
+    "familyId": 7,
+    "id": 173,
+    "skills": [
+      15,
+      50,
+      63
+    ],
+    "maxLvl": 80,
+    "expTableId": 20,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 3
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 18
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 15
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 0
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "7626c41f-a2e3-4239-b45e-c1b88433bd5d",
+    "name": "Copycat",
+    "familyId": 7,
+    "id": 174,
+    "skills": [
+      66,
+      91,
+      139
+    ],
+    "maxLvl": 40,
+    "expTableId": 1,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 1
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 2
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 21
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 5
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "b2f6004a-81c2-4d0a-8f7d-089366b6b79b",
+    "name": "JewelBag",
+    "familyId": 8,
+    "id": 175,
+    "skills": [
+      46,
+      93,
+      127
+    ],
+    "maxLvl": 40,
+    "expTableId": 12,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 3
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 18
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 17
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 5
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "08819f8f-8e91-47a0-9233-263b50b1f6c7",
+    "name": "EvilWand",
+    "familyId": 8,
+    "id": 176,
+    "skills": [
+      33,
+      51,
+      82
+    ],
+    "maxLvl": 50,
+    "expTableId": 14,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 5
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 12
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 9
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "6b866be7-4740-43ab-8e00-33321413af8c",
+    "name": "MadCandle",
+    "familyId": 8,
+    "id": 177,
+    "skills": [
+      15,
+      99,
+      148
+    ],
+    "maxLvl": 35,
+    "expTableId": 10,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 2
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 6
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 17
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 2
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "a525d962-877b-45eb-a4f7-e04996a5d99e",
+    "name": "CoilBird",
+    "familyId": 8,
+    "id": 178,
+    "skills": [
+      33,
+      90,
+      131
+    ],
+    "maxLvl": 35,
+    "expTableId": 8,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 6
+      },
+      {
+        "stat": "MP",
+        "growthRef": 3
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 14
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 14
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 7
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "6ee288eb-a8ce-4a76-8cfb-05ee537eb674",
+    "name": "Facer",
+    "familyId": 8,
+    "id": 179,
+    "skills": [
+      70,
+      76,
+      108
+    ],
+    "maxLvl": 50,
+    "expTableId": 12,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 8
+      },
+      {
+        "stat": "MP",
+        "growthRef": 3
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 12
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 3
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 9
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "568acfab-6197-4228-84b1-ab9b44f5068b",
+    "name": "SpikyBoy",
+    "familyId": 8,
+    "id": 180,
+    "skills": [
+      60,
+      108,
+      121
+    ],
+    "maxLvl": 30,
+    "expTableId": 8,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 9
+      },
+      {
+        "stat": "MP",
+        "growthRef": 3
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 17
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 7
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 1
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "294fd0f5-e869-4c93-882b-4e1051c73867",
+    "name": "MadMirror",
+    "familyId": 8,
+    "id": 181,
+    "skills": [
+      80,
+      82,
+      139
+    ],
+    "maxLvl": 45,
+    "expTableId": 14,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 5
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 6
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 11
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 9
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "46496cdc-f7a3-473c-8266-8d48bbc6dfcd",
+    "name": "RogueNite",
+    "familyId": 8,
+    "id": 182,
+    "skills": [
+      42,
+      54,
+      86
+    ],
+    "maxLvl": 45,
+    "expTableId": 12,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 4
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 21
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 10
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "a068ea23-e974-4973-9508-b58f293d25ae",
+    "name": "Goopi",
+    "familyId": 8,
+    "id": 183,
+    "skills": [
+      25,
+      39,
+      74
+    ],
+    "maxLvl": 40,
+    "expTableId": 8,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 8
+      },
+      {
+        "stat": "MP",
+        "growthRef": 3
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 14
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 7
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 4
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "aa3dd849-e4f2-47b3-9a3a-90067d21fd1d",
+    "name": "Voodoll",
+    "familyId": 8,
+    "id": 184,
+    "skills": [
+      93,
+      111,
+      133
+    ],
+    "maxLvl": 35,
+    "expTableId": 11,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 7
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 12
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 8
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 4
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "3d247c8a-a6f7-4eb0-8e8b-1fdb44d0caec",
+    "name": "MetalDrak",
+    "familyId": 8,
+    "id": 185,
+    "skills": [
+      83,
+      107,
+      110
+    ],
+    "maxLvl": 45,
+    "expTableId": 15,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 8
+      },
+      {
+        "stat": "MP",
+        "growthRef": 3
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 23
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 9
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 0
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "89523601-eae7-4601-925f-57a703275964",
+    "name": "Balzak",
+    "familyId": 8,
+    "id": 186,
+    "skills": [
+      2,
+      20,
+      88
+    ],
+    "maxLvl": 35,
+    "expTableId": 13,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 1
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 21
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 18
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 9
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "b79034d0-9418-4078-a006-b12639f53bf1",
+    "name": "SabreMan",
+    "familyId": 8,
+    "id": 187,
+    "skills": [
+      37,
+      95,
+      106
+    ],
+    "maxLvl": 30,
+    "expTableId": 11,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 8
+      },
+      {
+        "stat": "MP",
+        "growthRef": 3
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 11
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 12
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 6
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "bb519c82-d157-4aa6-a835-61b2d44b6512",
+    "name": "CurseLamp",
+    "familyId": 8,
+    "id": 188,
+    "skills": [
+      123,
+      140,
+      143
+    ],
+    "maxLvl": 50,
+    "expTableId": 9,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 2
+      },
+      {
+        "stat": "MP",
+        "growthRef": 8
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 19
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 13
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 5
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "15a228c2-b15c-4d9d-9746-d21dfc7076f3",
+    "name": "Roboster",
+    "familyId": 8,
+    "id": 189,
+    "skills": [
+      10,
+      102,
+      125
+    ],
+    "maxLvl": 40,
+    "expTableId": 13,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 2
+      },
+      {
+        "stat": "MP",
+        "growthRef": 5
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 22
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 24
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 7
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "9078941f-831a-4467-b7f0-a8bbbb46c645",
+    "name": "EvilPot",
+    "familyId": 8,
+    "id": 190,
+    "skills": [
+      6,
+      83,
+      116
+    ],
+    "maxLvl": 40,
+    "expTableId": 11,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 8
+      },
+      {
+        "stat": "MP",
+        "growthRef": 9
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 18
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 9
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 9
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "593e45f4-bc3a-48b1-b753-91e4a12b3b30",
+    "name": "Gismo",
+    "familyId": 8,
+    "id": 191,
+    "skills": [
+      45,
+      51,
+      130
+    ],
+    "maxLvl": 40,
+    "expTableId": 9,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 3
+      },
+      {
+        "stat": "MP",
+        "growthRef": 5
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 14
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 20
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 8
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "1fa7d6fb-f642-4cfc-9490-8f0c85634f0c",
+    "name": "LavaMan",
+    "familyId": 8,
+    "id": 192,
+    "skills": [
+      15,
+      29,
+      45
+    ],
+    "maxLvl": 40,
+    "expTableId": 13,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 8
+      },
+      {
+        "stat": "MP",
+        "growthRef": 2
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 24
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 4
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 7
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "cbeb266f-d0aa-4c6a-ab3f-65dbf3bf37e7",
+    "name": "IceMan",
+    "familyId": 8,
+    "id": 193,
+    "skills": [
+      51,
+      63,
+      129
+    ],
+    "maxLvl": 40,
+    "expTableId": 13,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 6
+      },
+      {
+        "stat": "MP",
+        "growthRef": 6
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 24
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 4
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 7
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "89a6be98-acea-49ef-835a-2716d67d93c2",
+    "name": "Mimic",
+    "familyId": 8,
+    "id": 194,
+    "skills": [
+      6,
+      15,
+      126
+    ],
+    "maxLvl": 40,
+    "expTableId": 11,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 5
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 12
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 1
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 0
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "b3c220e1-13e0-4b7e-b225-beebf6389eeb",
+    "name": "MudDoll",
+    "familyId": 8,
+    "id": 195,
+    "skills": [
+      61,
+      91,
+      115
+    ],
+    "maxLvl": 40,
+    "expTableId": 8,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 2
+      },
+      {
+        "stat": "MP",
+        "growthRef": 3
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 14
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 1
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 5
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "04b6db46-fd28-4fdc-b1ff-5555ed3226e4",
+    "name": "Golem",
+    "familyId": 8,
+    "id": 196,
+    "skills": [
+      27,
+      99,
+      129
+    ],
+    "maxLvl": 40,
+    "expTableId": 18,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 7
+      },
+      {
+        "stat": "MP",
+        "growthRef": 4
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 21
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 4
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 6
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "87b1879c-ed62-4546-8d8a-d63b15a3fe9e",
+    "name": "StoneMan",
+    "familyId": 8,
+    "id": 197,
+    "skills": [
+      29,
+      84,
+      131
+    ],
+    "maxLvl": 50,
+    "expTableId": 15,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 24
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 1
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 4
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "7a31b434-bf7c-4a63-ba59-297259401f0d",
+    "name": "BombCrag",
+    "familyId": 8,
+    "id": 198,
+    "skills": [
+      44,
+      84,
+      108
+    ],
+    "maxLvl": 50,
+    "expTableId": 14,
+    "sexProbability": "EVEN",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 5
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 20
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 0
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "bec867d9-7f65-4d99-a25c-dc7615ebcd62",
+    "name": "GoldGolem",
+    "familyId": 8,
+    "id": 199,
+    "skills": [
+      11,
+      132,
+      136
+    ],
+    "maxLvl": 80,
+    "expTableId": 18,
+    "sexProbability": "MALE_FAVOR",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 1
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 27
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 17
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "872595ae-e0a9-45a6-a8d8-9beff7758e08",
+    "name": "DracoLord1",
+    "familyId": 9,
+    "id": 200,
+    "skills": [
+      7,
+      46,
+      84
+    ],
+    "maxLvl": 5,
+    "expTableId": 24,
+    "sexProbability": "MALE",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 20
+      },
+      {
+        "stat": "MP",
+        "growthRef": 30
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 1
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 23
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 23
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "e76964f2-b8c0-4b96-98cb-f5d8858713ca",
+    "name": "DracoLord2",
+    "familyId": 9,
+    "id": 201,
+    "skills": [
+      45,
+      83,
+      132
+    ],
+    "maxLvl": 8,
+    "expTableId": 25,
+    "sexProbability": "MALE",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 21
+      },
+      {
+        "stat": "MP",
+        "growthRef": 30
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 4
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 23
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 21
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "bdc9f8bb-bfe2-4055-9b05-ac3ad4a11d81",
+    "name": "Hargon",
+    "familyId": 9,
+    "id": 202,
+    "skills": [
+      2,
+      46,
+      136
+    ],
+    "maxLvl": 70,
+    "expTableId": 24,
+    "sexProbability": "MALE",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 9
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 21
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 23
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "cd0faafe-460a-4e4a-9561-0cabead7905e",
+    "name": "Sidoh",
+    "familyId": 9,
+    "id": 203,
+    "skills": [
+      45,
+      51,
+      59
+    ],
+    "maxLvl": 80,
+    "expTableId": 25,
+    "sexProbability": "MALE",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 21
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 23
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "aa327d8c-d07e-4f7c-b864-9d61be8eaaf4",
+    "name": "Baramos",
+    "familyId": 9,
+    "id": 204,
+    "skills": [
+      2,
+      59,
+      107
+    ],
+    "maxLvl": 70,
+    "expTableId": 24,
+    "sexProbability": "MALE",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 0
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 20
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 22
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 1
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "acb7bca2-0740-4a2b-b265-e39908346a2d",
+    "name": "Zoma",
+    "familyId": 9,
+    "id": 205,
+    "skills": [
+      11,
+      36,
+      51
+    ],
+    "maxLvl": 80,
+    "expTableId": 25,
+    "sexProbability": "MALE",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 4
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 21
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 23
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "73a77b7f-8b4d-4918-b0a3-4d08f494ac54",
+    "name": "Pizzaro",
+    "familyId": 9,
+    "id": 206,
+    "skills": [
+      10,
+      45,
+      59
+    ],
+    "maxLvl": 70,
+    "expTableId": 24,
+    "sexProbability": "MALE",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 1
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 21
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 23
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "cf6e8efa-31d7-4325-962f-53bfc5535557",
+    "name": "Esterk",
+    "familyId": 9,
+    "id": 207,
+    "skills": [
+      36,
+      52,
+      102
+    ],
+    "maxLvl": 80,
+    "expTableId": 31,
+    "sexProbability": "MALE",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 9
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 24
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 23
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "63b10684-e6fd-483a-a45d-b84ed2da5f3d",
+    "name": "Mirudraas1",
+    "familyId": 9,
+    "id": 208,
+    "skills": [
+      2,
+      15,
+      20
+    ],
+    "maxLvl": 7,
+    "expTableId": 30,
+    "sexProbability": "MALE",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 21
+      },
+      {
+        "stat": "MP",
+        "growthRef": 30
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 6
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 23
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 23
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "76d1879f-8eaf-4ab8-b3e3-caa965a2785a",
+    "name": "Mirudraas2",
+    "familyId": 9,
+    "id": 209,
+    "skills": [
+      36,
+      45,
+      130
+    ],
+    "maxLvl": 8,
+    "expTableId": 31,
+    "sexProbability": "MALE",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 29
+      },
+      {
+        "stat": "MP",
+        "growthRef": 30
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 6
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 23
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 23
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "cd6c81c8-d381-4c36-9cfd-b363b86ebdd0",
+    "name": "Mudou",
+    "familyId": 9,
+    "id": 210,
+    "skills": [
+      45,
+      51,
+      97
+    ],
+    "maxLvl": 70,
+    "expTableId": 28,
+    "sexProbability": "MALE",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 1
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 24
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 23
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "e40e2c11-62b2-4e95-bb48-5e65583acd9f",
+    "name": "DeathMore1",
+    "familyId": 9,
+    "id": 211,
+    "skills": [
+      11,
+      59,
+      136
+    ],
+    "maxLvl": 6,
+    "expTableId": 27,
+    "sexProbability": "MALE",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 21
+      },
+      {
+        "stat": "MP",
+        "growthRef": 30
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 6
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 23
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 23
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "ede73d08-2512-4de0-bb90-56e19fbce90d",
+    "name": "DeathMore2",
+    "familyId": 9,
+    "id": 212,
+    "skills": [
+      45,
+      103,
+      142
+    ],
+    "maxLvl": 7,
+    "expTableId": 29,
+    "sexProbability": "MALE",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 24
+      },
+      {
+        "stat": "MP",
+        "growthRef": 30
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 6
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 23
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 23
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "287f94c3-40dc-45e3-8e58-2e88e4b0f45f",
+    "name": "DeathMore3",
+    "familyId": 9,
+    "id": 213,
+    "skills": [
+      11,
+      36,
+      50
+    ],
+    "maxLvl": 8,
+    "expTableId": 31,
+    "sexProbability": "MALE",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 29
+      },
+      {
+        "stat": "MP",
+        "growthRef": 30
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 0
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 23
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 23
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  },
+  {
+    "uuid": "24f4657b-6b69-46a0-b93e-6ee749e4ab0b",
+    "name": "DarkDrium",
+    "familyId": 9,
+    "id": 214,
+    "skills": [
+      20,
+      45,
+      51
+    ],
+    "maxLvl": 80,
+    "expTableId": 30,
+    "sexProbability": "MALE",
+    "flying": false,
+    "metal": false,
+    "statGrow": [
+      {
+        "stat": "HP",
+        "growthRef": 1
+      },
+      {
+        "stat": "MP",
+        "growthRef": 0
+      },
+      {
+        "stat": "ATK",
+        "growthRef": 24
+      },
+      {
+        "stat": "DEF",
+        "growthRef": 23
+      },
+      {
+        "stat": "AGL",
+        "growthRef": 3
+      },
+      {
+        "stat": "INT",
+        "growthRef": null
+      }
+    ]
+  }
+]

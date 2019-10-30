@@ -1,0 +1,1 @@
+export enum Stats {HP ='HP', MP ='MP', ATK ='ATK', DEF ='DEF', AGL ='AGL', INT ='INT'}
