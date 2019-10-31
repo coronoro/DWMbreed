@@ -16,5 +16,7 @@
     "ts-node": "^8.4.1",
     "typescript": "^3.6.4"
   },
-  "dependencies": {}
+  "dependencies": {
+    "cytoscape": "^3.11.0"
+  }
 }
