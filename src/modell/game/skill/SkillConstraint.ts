@@ -1,4 +1,4 @@
-import {Stats} from "../monster/stats";
+import {Stats} from "../monster/Stats";
 
 export class SkillConstraint {
 

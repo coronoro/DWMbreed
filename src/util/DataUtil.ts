@@ -1,8 +1,8 @@
-import {Monster} from "../modell/monster/Monster";
-import {Family} from "../modell/family";
-import {GrowthTable} from "../modell/monster/GrowthTable";
-import {Skill} from "../modell/skill/Skill";
-import {BreedingRule} from "../modell/breeding/BreedingRule";
+import {Monster} from "../modell/game/monster/Monster";
+import {Family} from "../modell/game/family";
+import {GrowthTable} from "../modell/game/monster/GrowthTable";
+import {Skill} from "../modell/game/skill/Skill";
+import {BreedingRule} from "../modell/game/breeding/BreedingRule";
 
 export enum GAME {DWM1 = 'dwm1'}
 
@@ -47,7 +47,7 @@ export function loadMonsters(game:GAME){
 
 export function loadBreedingRules(game:GAME){
     let result: BreedingRule[] = undefined;
-    const json = path.join(dataDir, game.toLowerCase(),  'monster.json');
+    const json = path.join(dataDir, game.toLowerCase(),  'breedingrules.json');
     const rules: BreedingRule[] = JSON.parse(fs.readFileSync(json, 'utf-8'))
     result = rules
     return result

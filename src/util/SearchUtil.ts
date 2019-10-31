@@ -1,7 +1,7 @@
-import {Monster} from "../modell/monster/Monster";
-import {Skill} from "../modell/skill/Skill";
-import {Family} from "../modell/Family";
-import {BreedingRule} from "../modell/breeding/BreedingRule";
+import {Monster} from "../modell/game/monster/Monster";
+import {Skill} from "../modell/game/skill/Skill";
+import {Family} from "../modell/game/family";
+import {BreedingRule} from "../modell/game/breeding/BreedingRule";
 
 
 
@@ -39,6 +39,11 @@ export function findSkill(name: String, skills:Skill[]){
         throw Error('no SKill found for: ' + name)
     }
     return result
+}
+
+export function findSkillById(id:number, skills: Skill[]){
+    const selected = skills.filter(skill => skill.id == id)
+    return selected[0]
 }
 
 export  function findFamily (name: String, families: Family[]){

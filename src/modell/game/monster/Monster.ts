@@ -1,4 +1,4 @@
-import {Identifiable} from "../Identifiable";
+import {Identifiable} from "../../Identifiable";
 import {SexProbability} from "./SexProbability";
 import {Stats} from "./Stats";
 import {StatGrowRef} from "./StatGrowRef";

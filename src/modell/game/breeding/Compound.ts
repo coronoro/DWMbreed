@@ -1,4 +1,4 @@
-import {Identifiable} from "../identifiable";
+import {Identifiable} from "../../Identifiable";
 
 export class Compound{
 

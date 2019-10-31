@@ -1,6 +1,6 @@
-import {Identifiable} from '../identifiable'
-import {Monster} from "../monster/monster";
-import {Compound} from "./compound";
+import {Identifiable} from '../../Identifiable'
+import {Monster} from "../monster/Monster";
+import {Compound} from "./Compound";
 
 export class BreedingRule extends Identifiable{
 

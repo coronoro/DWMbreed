@@ -1,5 +1,5 @@
-import {Identifiable} from '../identifiable'
-import {SkillConstraint} from "./skillConstraint";
+import {Identifiable} from '../../Identifiable'
+import {SkillConstraint} from "./SkillConstraint";
 
 export class Skill extends Identifiable{
 
