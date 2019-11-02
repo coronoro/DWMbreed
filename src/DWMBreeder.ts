@@ -1,8 +1,8 @@
-import {Monster} from "./modell/game/monster/Monster";
+import {Monster} from "./model/game/monster/Monster";
 import {GAME, loadBreedingRules, loadFamilies, loadGrowth, loadMonsters, loadSKills} from "./util/DataUtil";
 import {findMonster, findMonsterById, findResultBreedingRule, findSkill, findSkillById} from "./util/SearchUtil";
-import {Compound} from "./modell/game/breeding/Compound";
-import {BreedingStrategy} from "./modell/strategy/BreedingStrategy";
+import {Compound} from "./model/game/breeding/Compound";
+import {BreedingStrategy} from "./model/strategy/BreedingStrategy";
 
 var game = GAME.DWM1
 var families = loadFamilies(game)

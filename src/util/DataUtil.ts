@@ -1,8 +1,8 @@
-import {Monster} from "../modell/game/monster/Monster";
-import {Family} from "../modell/game/family";
-import {GrowthTable} from "../modell/game/monster/GrowthTable";
-import {Skill} from "../modell/game/skill/Skill";
-import {BreedingRule} from "../modell/game/breeding/BreedingRule";
+import {Monster} from "../model/game/monster/Monster";
+import {Family} from "../model/game/family";
+import {GrowthTable} from "../model/game/monster/GrowthTable";
+import {Skill} from "../model/game/skill/Skill";
+import {BreedingRule} from "../model/game/breeding/BreedingRule";
 
 export enum GAME {DWM1 = 'dwm1'}
 

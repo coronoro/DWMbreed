@@ -1,7 +1,7 @@
-import {Monster} from "../modell/game/monster/Monster";
-import {Skill} from "../modell/game/skill/Skill";
-import {Family} from "../modell/game/family";
-import {BreedingRule} from "../modell/game/breeding/BreedingRule";
+import {Monster} from "../model/game/monster/Monster";
+import {Skill} from "../model/game/skill/Skill";
+import {Family} from "../model/game/family";
+import {BreedingRule} from "../model/game/breeding/BreedingRule";
 
 
 
