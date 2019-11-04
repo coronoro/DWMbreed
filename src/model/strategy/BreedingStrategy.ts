@@ -13,25 +13,25 @@ export class BreedingStrategy extends Identifiable{
     nodeQueue: TreeNode<Monster>[];
     treeRoot: TreeNode<Monster>;
 
-    allMonsters: Monster[]
-    allRules: BreedingRule[]
+    allMonsters: Monster[];
+    allRules: BreedingRule[];
 
-    viewedMonsters: Set<Monster>
+    viewedMonsters: Set<Monster>;
 
 
     constructor(root: Monster, desiredSkills:number[], monsters: Monster[], breedingRules: BreedingRule[]){
         super();
         this.desiredSkills = desiredSkills;
-        this.collectedSKills = new Set()
-        this.viewedMonsters = new Set()
-        this.treeRoot = new TreeNode(root)
-        this.nodeQueue = []
+        this.collectedSKills = new Set();
+        this.viewedMonsters = new Set();
+        this.treeRoot = new TreeNode(root);
+        this.nodeQueue = [];
         //init
-        this.collectSkills(root)
-        this.viewedMonsters.add(root)
-        this.nodeQueue.push(this.treeRoot)
+        this.collectSkills(root);
+        this.viewedMonsters.add(root);
+        this.nodeQueue.push(this.treeRoot);
 
-        this.allMonsters = monsters
+        this.allMonsters = monsters;
         this.allRules = breedingRules
     }
 
@@ -48,29 +48,29 @@ export class BreedingStrategy extends Identifiable{
     }
 
     step(){
-        const emptyQueue: TreeNode<Monster>[] = []
+        const emptyQueue: TreeNode<Monster>[] = [];
         this.nodeQueue.forEach(treeNode => {
-            const monster = treeNode.value
-            const rules = findResultBreedingRule(monster, this.allRules)
+            const monster = treeNode.value;
+            const rules = findResultBreedingRule(monster, this.allRules);
             rules.forEach(rule => {
-                const compound1Monsters = this.getCompoundMonsters(rule.compound1)
+                const compound1Monsters = this.getCompoundMonsters(rule.compound1);
                 compound1Monsters.forEach(entry => {
                     if (!this.alreadyViewed(entry)){
-                        this.collectSkills(entry)
-                        const node = new TreeNode(entry)
-                        treeNode.right.push(node)
-                        emptyQueue.push(node)
+                        this.collectSkills(entry);
+                        const node = new TreeNode(entry);
+                        treeNode.right.push(node);
+                        emptyQueue.push(node);
                         this.viewedMonsters.add(entry)
                     }
 
-                })
-                const compound2Monsters = this.getCompoundMonsters(rule.compound2)
+                });
+                const compound2Monsters = this.getCompoundMonsters(rule.compound2);
                 compound2Monsters.forEach(entry => {
                     if (!this.alreadyViewed(entry)) {
-                        this.collectSkills(entry)
-                        const node = new TreeNode(entry)
-                        treeNode.left.push(node)
-                        emptyQueue.push(node)
+                        this.collectSkills(entry);
+                        const node = new TreeNode(entry);
+                        treeNode.left.push(node);
+                        emptyQueue.push(node);
                         this.viewedMonsters.add(entry)
                     }
                 })
@@ -80,14 +80,14 @@ export class BreedingStrategy extends Identifiable{
     }
 
     private getCompoundMonsters = (compound: Compound) => {
-        let queue = []
+        let queue = [];
         if (compound.type == 'Family'){
-            const familyMonsters = this.allMonsters.filter(monster => monster.familyId == compound.ref)
+            const familyMonsters = this.allMonsters.filter(monster => monster.familyId == compound.ref);
             familyMonsters.forEach(item => {
                 queue.push(item)
             })
         }else{
-            const find = findMonsterById(compound.ref,this.allMonsters)
+            const find = findMonsterById(compound.ref,this.allMonsters);
             queue.push(find)
         }
         return queue

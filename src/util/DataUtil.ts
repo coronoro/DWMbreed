@@ -9,7 +9,7 @@ export enum GAME {DWM1 = 'dwm1'}
 import path = require('path');
 
 
-
+/*
 
 export function fetchJson(path:string){
     let result = undefined
@@ -24,10 +24,12 @@ export function fetchJson(path:string){
     return asyncFun()
 }
 
+*/
+
 export function load<T>(game:GAME, jsonFile: string){
-    var json = require("../../data/"+game.toLowerCase()+"/"+jsonFile)
+    var json = require("../../data/"+game.toLowerCase()+"/"+jsonFile);
     if(typeof json === 'string'){
-        const promise = fetchJson(json.toString()).then(value => console.log(value))
+        //const promise = fetchJson(json.toString()).then(value => console.log(value))
         console.log(json);
     }
     return json as T
@@ -36,7 +38,7 @@ export function load<T>(game:GAME, jsonFile: string){
 
 export function loadFamilies(game:GAME){
     let result: Family[] = undefined;
-    result = load<Family[]>(game,'family.json')
+    result = load<Family[]>(game,'family.json');
     return result
 }
 

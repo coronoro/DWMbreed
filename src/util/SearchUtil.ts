@@ -16,11 +16,15 @@ export function findMonster(name: String, monsters: Monster[]){
         throw Error('no monster found for: ' + name)
     }
     return result
-};
+}
 
 export function findMonsterById(id:number, monsters: Monster[]){
-    const selected = monsters.filter(monster => monster.id == id)
+    const selected = monsters.filter(monster => monster.id == id);
     return selected[0]
+}
+
+export function findMonsterByFamily(family:Family, monsters:Monster[]){
+    return monsters.filter(monster => monster.familyId == family.id)
 }
 
 export function findMonsterBySkill(skill: Skill, monsters:Monster[]){
@@ -28,7 +32,7 @@ export function findMonsterBySkill(skill: Skill, monsters:Monster[]){
 }
 
 export function findSkill(name: String, skills:Skill[]){
-    let result : Skill = undefined
+    let result : Skill = undefined;
     skills.forEach(skill => {
         if (skill.name.toLowerCase() == name.toLowerCase()){
             result = skill
@@ -42,7 +46,7 @@ export function findSkill(name: String, skills:Skill[]){
 }
 
 export function findSkillById(id:number, skills: Skill[]){
-    const selected = skills.filter(skill => skill.id == id)
+    const selected = skills.filter(skill => skill.id == id);
     return selected[0]
 }
 
@@ -57,8 +61,7 @@ export  function findFamily (name: String, families: Family[]){
         throw Error('no family found for: ' + name)
     }
     return result
-};
-
+}
 export function findResultBreedingRule(monster:Monster, rules: BreedingRule[]){
     return rules.filter(rule => rule.resultId == monster.id)
 }

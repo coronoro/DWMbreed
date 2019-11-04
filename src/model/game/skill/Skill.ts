@@ -13,7 +13,7 @@ export class Skill extends Identifiable{
     constructor(name: string, description: string){
         super();
         this.name = name;
-        this.description = description
+        this.description = description;
         this.mpCost = -1
     }
 

@@ -2,7 +2,7 @@ import {Identifiable} from "../Identifiable";
 
 export class Family extends Identifiable{
 
-    name:string
+    name:string;
 
     constructor(name:string){
         super();

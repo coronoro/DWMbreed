@@ -7,22 +7,22 @@ import {GAME} from "./DataUtil";
 
 
 export function fetchAwaitJson(path:string): any{
-    let result = undefined
+    let result = undefined;
     const asyncFun = async () => {
-        const response = await fetch(path)
-        const json = await response.json()
+        const response = await fetch(path);
+        const json = await response.json();
         if(!response.ok){
             throw new Error("HTTP error " + response.status);
         }
         console.log(JSON.stringify(json));
         result = JSON.stringify(json)
-    }
-    asyncFun()
+    };
+    asyncFun();
     return result
 }
 
 export function fetchJson<T>(game: GAME, jsonFile: string, callback: (data: T) => void){
-    var url = require("../../data/"+game.toLowerCase()+"/"+jsonFile)
+    var url = require("../../data/"+game.toLowerCase()+"/"+jsonFile);
     return fetch(url)
         .then((response) => {
             if(!response.ok){

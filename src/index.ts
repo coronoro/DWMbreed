@@ -8,18 +8,19 @@ import {Monster} from "./model/game/monster/Monster";
 import * as EventEmitter from "events";
 import Choo = require("choo");
 import {fetchBreedingRules, fetchFamilies, fetchGrowth, fetchMonsters, fetchSKills} from "./util/FetchUtil";
-var html = require('choo/html')
+import FamilyList from "./gui/FamilyList";
+var html = require('choo/html');
 
 // initialize choo
 var app = new Choo();
 
 app.use((state: IState, emitter: EventEmitter) => {
     state.game = GAME.DWM1;
-    state.monsters = []
-    state.families = []
-    state.skills = []
-    state.grwothTable = undefined
-    state.breedingRules = []
+    state.monsters = [];
+    state.families = [];
+    state.skills = [];
+    state.grwothTable = undefined;
+    state.breedingRules = [];
 
     fetchFamilies(state.game, (data) => {
         state.families = data;
@@ -28,9 +29,9 @@ app.use((state: IState, emitter: EventEmitter) => {
             fetchGrowth(state.game, (data) => {
                 state.growthTable = data;
                 fetchMonsters(state.game, (data) => {
-                    state.monsters = data
+                    state.monsters = data;
                     fetchBreedingRules(state.game, (data) => {
-                        state.breedingRules = data
+                        state.breedingRules = data;
                         emitter.emit('render')
                     });
                 });
@@ -42,11 +43,11 @@ app.use((state: IState, emitter: EventEmitter) => {
 
 
 
-})
+});
 
 // create a route
-app.route('/', MonsterList)
+app.route('/', FamilyList);
 
 
 // start app
-app.mount('div')
+app.mount('div');
