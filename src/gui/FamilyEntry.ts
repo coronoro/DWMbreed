@@ -7,7 +7,7 @@ import {findMonsterByFamily} from "../util/SearchUtil";
 
 
 export default (state: IState) => (family: Family) => {
-    const monsters: Monster[] = findMonsterByFamily(family, state.monsters)
+    const monsters: Monster[] = findMonsterByFamily(family, state.monsters);
     return html`
         <div class="family">
             <span class="title">${family.name}</span>
