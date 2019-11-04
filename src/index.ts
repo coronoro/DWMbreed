@@ -1,7 +1,10 @@
 // import choo
 
 
-import {loadFamilies, GAME} from "./util/DataUtil";
+import {loadFamilies, GAME, loadMonsters} from "./util/DataUtil";
+import {IState} from 'choo'
+import MonsterList from "./gui/MonsterList";
+import {Monster} from "./model/game/monster/Monster";
 
 var choo = require('choo')
 var html = require('choo/html')
@@ -9,14 +12,19 @@ var html = require('choo/html')
 // initialize choo
 var app = choo();
 
-debugger
+app.use((state: IState) => {
+    state.game = GAME.DWM1;
+    state.monsters = [new Monster('foo', 0),new Monster('bar', 0)]
+
+})
+
+
+
 var families = loadFamilies(GAME.DWM1)
-var main = function () {
-    return html`<div>${families}</div>`
-}
+
 
 // create a route
-app.route('/', main)
+app.route('/', MonsterList)
 
 
 // start app
