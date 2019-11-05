@@ -1,14 +1,12 @@
-// import choo
-
+//load css
+import './gui/css/main.scss';
 
 import { GAME} from "./util/DataUtil";
 import {IState} from 'choo'
-import MonsterList from "./gui/MonsterList";
-import {Monster} from "./model/game/monster/Monster";
 import * as EventEmitter from "events";
 import Choo = require("choo");
 import {fetchBreedingRules, fetchFamilies, fetchGrowth, fetchMonsters, fetchSKills} from "./util/FetchUtil";
-import FamilyList from "./gui/FamilyList";
+import FamilyList from "./gui/templates/FamilyList";
 var html = require('choo/html');
 
 // initialize choo

@@ -1,7 +1,7 @@
 import html from 'choo/html';
 import {IState} from "choo";
 import monsterItem from "./MonsterItem";
-import {Monster} from "../model/game/monster/Monster";
+import {Monster} from "../../model/game/monster/Monster";
 
 
 

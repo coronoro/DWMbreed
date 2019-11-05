@@ -1,5 +1,10 @@
 const path = require('path');
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
+const MiniCssExtractPlugin = require('mini-css-extract-plugin')
+
+// const isDevelopment = process.env.NODE_ENV === 'development'
+
+const isDevelopment = false
 
 module.exports = {
     entry: path.join(__dirname, '..', 'src','/index.ts'),
@@ -9,7 +14,11 @@ module.exports = {
         publicPath: '/dist'
     },
     plugins: [
-        new CleanWebpackPlugin()
+        new CleanWebpackPlugin(),
+        new MiniCssExtractPlugin({
+            filename: '[name].css',
+            chunkFilename: '[id].css'
+        })
     ],
     module: {
         rules: [
@@ -17,6 +26,39 @@ module.exports = {
                 test: /\.tsx?$/,
                 use: 'ts-loader',
                 exclude: /node_modules/,
+            },
+            {
+                test: /\.module\.s(a|c)ss$/,
+                loader: [
+                    isDevelopment ? 'style-loader' : MiniCssExtractPlugin.loader,
+                    {
+                        loader: 'css-loader',
+                        options: {
+                            modules: true,
+                            sourceMap: isDevelopment
+                        }
+                    },
+                    {
+                        loader: 'sass-loader',
+                        options: {
+                            sourceMap: isDevelopment
+                        }
+                    }
+                ]
+            },
+            {
+                test: /\.s(a|c)ss$/,
+                exclude: /\.module.(s(a|c)ss)$/,
+                loader: [
+                    isDevelopment ? 'style-loader' : MiniCssExtractPlugin.loader,
+                    'css-loader',
+                    {
+                        loader: 'sass-loader',
+                        options: {
+                            sourceMap: isDevelopment
+                        }
+                    }
+                ]
             },
             {
                 type: 'javascript/auto',
@@ -33,7 +75,7 @@ module.exports = {
         ]
     },
     resolve: {
-        extensions: [ '.tsx', '.ts', '.js', '.json' ],
+        extensions: [ '.tsx', '.ts', '.js', '.json', '.scss' ],
     },
     target: 'web'
 };
