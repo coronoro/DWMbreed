@@ -18,7 +18,7 @@ export function findMonster(name: String, monsters: Monster[]){
     return result
 }
 
-export function findMonsterById(id:number, monsters: Monster[]){
+export function findMonsterById(id:number, monsters: Monster[]): Monster{
     const selected = monsters.filter(monster => monster.id == id);
     return selected[0]
 }
@@ -66,6 +66,12 @@ export  function findFamily (name: String, families: Family[]){
     }
     return result
 }
+
+export function findFamilyById(id:number, families: Family[]){
+    const selected = families.filter(family => family.id == id);
+    return selected[0]
+}
+
 export function findResultBreedingRule(monster:Monster, rules: BreedingRule[]){
     return rules.filter(rule => rule.resultId == monster.id)
 }

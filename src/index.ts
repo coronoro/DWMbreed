@@ -49,6 +49,7 @@ app.use((state: IState, emitter: EventEmitter) => {
 
 // define routes
 app.route('/', FamilyListView);
+app.route('/family', FamilyListView);
 app.route('/monster', MonsterView)
 app.route('/skill', SKillView)
 
