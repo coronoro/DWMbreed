@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "breed": "node ./src/miner/readBreedingRules.ts",
     "build": "webpack --config ./build/webpack.config.js",
-    "start": "webpack-dev-server --mode development --config ./build/webpack.config.js"
+    "start": "webpack-dev-server --inline --mode development --config ./build/webpack.config.js"
   },
   "keywords": [],
   "author": "",
@@ -30,6 +30,6 @@
     "webpack-dev-server": "^3.9.0"
   },
   "dependencies": {
-    "choo": "^7.0.0"
+    "choo": "^6.13.3"
   }
 }

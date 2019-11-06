@@ -5,12 +5,16 @@ import { GAME} from "./util/DataUtil";
 import {IState} from 'choo'
 import * as EventEmitter from "events";
 import Choo = require("choo");
+var choo = require('choo')
+
 import {fetchBreedingRules, fetchFamilies, fetchGrowth, fetchMonsters, fetchSKills} from "./util/FetchUtil";
-import FamilyList from "./gui/templates/FamilyList";
+import MonsterView from "./gui/templates/view/MonsterView";
+import SKillView from "./gui/templates/view/SKillView";
+import FamilyListView from "./gui/templates/view/FamilyListView";
 var html = require('choo/html');
 
 // initialize choo
-var app = new Choo();
+var app = choo();
 
 app.use((state: IState, emitter: EventEmitter) => {
     state.game = GAME.DWM1;
@@ -37,15 +41,20 @@ app.use((state: IState, emitter: EventEmitter) => {
         });
     });
 
+    emitter.on('openPage', function (page) {
 
-
-
+    })
 
 });
 
-// create a route
-app.route('/', FamilyList);
+// define routes
+app.route('/', FamilyListView);
+app.route('/monster', MonsterView)
+app.route('/skill', SKillView)
 
+
+//app.route('/:user', placeholder)
 
 // start app
-app.mount('div');
+const tree = app.start()
+document.body.appendChild(tree)

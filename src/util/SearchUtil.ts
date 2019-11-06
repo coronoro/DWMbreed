@@ -38,11 +38,15 @@ export function findSkill(name: String, skills:Skill[]){
             result = skill
         }
     });
-
     if (!result){
         throw Error('no SKill found for: ' + name)
     }
     return result
+}
+
+export function findSkillByMonster(monster:Monster, skills: Skill[]){
+    const list = skills.filter(skill => monster.skills.includes(skill.id));
+    return list
 }
 
 export function findSkillById(id:number, skills: Skill[]){

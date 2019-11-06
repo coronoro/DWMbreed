@@ -1,11 +1,10 @@
-.family-list {
-    .family{
-        padding: 5px;
-        .title{
-            font-size: 18pt;
-        }
-      .list{
-        padding-top: 5px;
-      }
-    }
+.list{
+  padding-top: 5px;
+
+  .item{
+    background: green;
+    padding: 5px;
+    margin: 5px;
+    cursor: pointer;
+  }
 }
