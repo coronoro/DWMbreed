@@ -12,10 +12,8 @@ export default function (state: IState, emitter: any){
         families = [findFamilyById(id, families)]
     }
     return html`
-    <body>
-        <div class="list">
-            ${families.map(FamilyListItem(state, emitter))}
-        </div>
-    </body>
+    <div class="list">
+        ${families.map(FamilyListItem(state, emitter))}
+    </div>
     `
 }

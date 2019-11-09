@@ -7,6 +7,10 @@ import MonsterListItem from "./MonsterListItem";
 
 
 export default (state: IState, emitter: any) => (family: Family) => {
+    if(!family){
+        emitter('render')
+        return html ``
+    }
     const monsters: Monster[] = findMonsterByFamily(family, state.monsters);
     return html`
         <div class="family">

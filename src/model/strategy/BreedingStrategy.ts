@@ -2,9 +2,7 @@ import {Monster} from "../game/monster/Monster";
 import {Identifiable} from "../Identifiable";
 import {TreeNode} from "../tree/TreeNode";
 import {BreedingRule} from "../game/breeding/BreedingRule";
-import {Compound} from "../game/breeding/Compound";
-import {findMonsterById, findResultBreedingRule} from "../../util/SearchUtil";
-import {loadMonsters} from "../../util/DataUtil";
+import {getCompoundMonsters, findResultBreedingRule} from "../../util/SearchUtil";
 
 export class BreedingStrategy extends Identifiable{
 
@@ -53,7 +51,7 @@ export class BreedingStrategy extends Identifiable{
             const monster = treeNode.value;
             const rules = findResultBreedingRule(monster, this.allRules);
             rules.forEach(rule => {
-                const compound1Monsters = this.getCompoundMonsters(rule.compound1);
+                const compound1Monsters = getCompoundMonsters(rule.compound1, this.allMonsters);
                 compound1Monsters.forEach(entry => {
                     if (!this.alreadyViewed(entry)){
                         this.collectSkills(entry);
@@ -64,7 +62,7 @@ export class BreedingStrategy extends Identifiable{
                     }
 
                 });
-                const compound2Monsters = this.getCompoundMonsters(rule.compound2);
+                const compound2Monsters = getCompoundMonsters(rule.compound2, this.allMonsters);
                 compound2Monsters.forEach(entry => {
                     if (!this.alreadyViewed(entry)) {
                         this.collectSkills(entry);
@@ -78,19 +76,5 @@ export class BreedingStrategy extends Identifiable{
         });
         this.nodeQueue = emptyQueue
     }
-
-    private getCompoundMonsters = (compound: Compound) => {
-        let queue = [];
-        if (compound.type == 'Family'){
-            const familyMonsters = this.allMonsters.filter(monster => monster.familyId == compound.ref);
-            familyMonsters.forEach(item => {
-                queue.push(item)
-            })
-        }else{
-            const find = findMonsterById(compound.ref,this.allMonsters);
-            queue.push(find)
-        }
-        return queue
-    };
 
 }

@@ -10,6 +10,6 @@ export default  (emitter:any) => (skill: Skill) =>{
     `
 
     function navigate () {
-        emitter('pushState', '/skill?id='+ skill.id)
+        emitter('pushState', '/?view=skill&id='+ skill.id)
     }
 }

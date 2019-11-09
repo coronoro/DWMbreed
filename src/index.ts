@@ -8,9 +8,7 @@ import Choo = require("choo");
 var choo = require('choo')
 
 import {fetchBreedingRules, fetchFamilies, fetchGrowth, fetchMonsters, fetchSKills} from "./util/FetchUtil";
-import MonsterView from "./gui/templates/view/MonsterView";
-import SKillView from "./gui/templates/view/SKillView";
-import FamilyListView from "./gui/templates/view/FamilyListView";
+import MainView from "./gui/templates/MainView";
 var html = require('choo/html');
 
 // initialize choo
@@ -48,10 +46,7 @@ app.use((state: IState, emitter: EventEmitter) => {
 });
 
 // define routes
-app.route('/', FamilyListView);
-app.route('/family', FamilyListView);
-app.route('/monster', MonsterView)
-app.route('/skill', SKillView)
+app.route('/', MainView);
 
 
 //app.route('/:user', placeholder)

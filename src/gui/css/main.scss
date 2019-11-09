@@ -8,3 +8,16 @@
     cursor: pointer;
   }
 }
+
+.view{
+  display: flex;
+}
+
+.breeding-rule{
+  display: flex;
+  justify-content: center;
+  .entry,
+  .result{
+    padding: 5px;
+  }
+}

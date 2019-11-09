@@ -1,37 +1,55 @@
 import {IState} from "choo";
 import html from 'choo/html';
-import {findFamily, findFamilyById, findMonsterById, findSkillByMonster} from "../../../util/SearchUtil";
+import {getCompoundMonsters, findFamilyById, findMonsterById, findSkillsByMonster, findResultBreedingRule} from "../../../util/SearchUtil";
 import SkillListItem from "../lists/SkillListItem";
+import BreedingRuleListItem from "../lists/BreedingRuleListItem";
+import {Family} from "../../../model/game/family";
+import {Skill} from "../../../model/game/skill/Skill";
 
 export default function(state: IState, emitter:any){
     const id = parseInt(state.query.id)
     const monster = findMonsterById(id, state.monsters)
-    const family = findFamilyById(monster.id, state.families)
-    const skills = findSkillByMonster(monster, state.skills)
+    if(!monster){
+        emitter('render')
+        return html ``
+    }
+    const family = findFamilyById(monster.familyId, state.families)
+    const skills = findSkillsByMonster(monster, state.skills)
+    const createRules = findResultBreedingRule(monster, state.breedingRules)
+
 
     return html `
-<body>
-    <div class="monster view">
-        <h3>
-            <div>${monster.name}</div>    
-            <h3>Family</h3>
-            <span onclick=${navigate}>
-                ${family.name}
-            </span>
-            <h3>Skills</h3>
-            <div class="list">
-                ${skills.map(SkillListItem(emitter))}
-            </div>   
-            <h3>Max. Level</h3>
-            <span>${monster.maxLvl}</span>            
+<div class="monster view">
+    <div>
+        <div>${monster.name}</div>    
+        <h3>Family</h3>
+        <span onclick=${navigate}>
+            ${family.name}
+        </span>
+        <h3>Skills</h3>
+        <div class="list">
+            ${skills.map(SkillListItem(emitter))}
+        </div>   
+        <h3>Max. Level</h3>
+        <span>${monster.maxLvl}</span>            
+    </div>
+    <div>
+        <div>
+            <h3>Bred From</h3>
+            <div>
+                ${createRules.map(BreedingRuleListItem(state, emitter))}
+            </div>
         </div>
         <div>
-        
+            <h3>Used in</h3>
+            <div>
+            
+            </div>
         </div>
     </div>
-</body>
+</div>
     `
     function navigate () {
-        emitter('pushState', '/family?id='+ family.id)
+        emitter('pushState', '/?view=familyList&id='+ family.id)
     }
 }

@@ -11,6 +11,6 @@ export default  (emitter:any) => (monster: Monster) =>{
     `
 
     function navigate () {
-        emitter('pushState', '/monster?id='+ monster.id)
+        emitter('pushState', '/?view=monster&id='+ monster.id)
     }
 }

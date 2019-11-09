@@ -2,6 +2,7 @@ import {Monster} from "../model/game/monster/Monster";
 import {Skill} from "../model/game/skill/Skill";
 import {Family} from "../model/game/family";
 import {BreedingRule} from "../model/game/breeding/BreedingRule";
+import {Compound} from "../model/game/breeding/Compound";
 
 
 
@@ -44,7 +45,7 @@ export function findSkill(name: String, skills:Skill[]){
     return result
 }
 
-export function findSkillByMonster(monster:Monster, skills: Skill[]){
+export function findSkillsByMonster(monster:Monster, skills: Skill[]){
     const list = skills.filter(skill => monster.skills.includes(skill.id));
     return list
 }
@@ -75,3 +76,31 @@ export function findFamilyById(id:number, families: Family[]){
 export function findResultBreedingRule(monster:Monster, rules: BreedingRule[]){
     return rules.filter(rule => rule.resultId == monster.id)
 }
+
+export function findUsedBreedingRule(monster:Monster, rules: BreedingRule[]){
+    const check =   (compound: Compound) => {
+        let result = false
+        if (compound.type === 'Family'){
+            result = compound.ref === monster.familyId
+        }else{
+            result = compound.ref === monster.id
+        }
+        return result
+    }
+    return rules.filter(rule => check(rule.compound1) || check(rule.compound2))
+}
+
+
+export function getCompoundMonsters(compound: Compound, monsters: Monster[]) {
+    let queue = [];
+    if (compound.type == 'Family'){
+        const familyMonsters = monsters.filter(monster => monster.familyId == compound.ref);
+        familyMonsters.forEach(item => {
+            queue.push(item)
+        })
+    }else{
+        const find = findMonsterById(compound.ref,monsters);
+        queue.push(find)
+    }
+    return queue
+};
