@@ -16,7 +16,7 @@ export default (state: IState, emitter: any) => (family: Family) => {
         <div class="family">
             <span class="title">${family.name}</span>
             <div class="list">
-            ${monsters.map(MonsterListItem(emitter))}
+            ${monsters.map(MonsterListItem(state,emitter))}
             </div>
         </div>
     `

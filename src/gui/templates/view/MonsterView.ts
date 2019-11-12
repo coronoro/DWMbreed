@@ -3,11 +3,13 @@ import html from 'choo/html';
 import {getCompoundMonsters, findFamilyById, findMonsterById, findSkillsByMonster, findResultBreedingRule} from "../../../util/SearchUtil";
 import SkillListItem from "../lists/SkillListItem";
 import BreedingRuleListItem from "../lists/BreedingRuleListItem";
-import {Family} from "../../../model/game/family";
-import {Skill} from "../../../model/game/skill/Skill";
+import { getImageURL } from "../../../util/WebUtil";
+
+
 
 export default function(state: IState, emitter:any){
     const id = parseInt(state.query.id)
+    const game = state.game
     const monster = findMonsterById(id, state.monsters)
     if(!monster){
         emitter('render')
@@ -21,7 +23,8 @@ export default function(state: IState, emitter:any){
     return html `
 <div class="monster view">
     <div>
-        <div>${monster.name}</div>    
+        <div>${monster.name}</div> 
+        <img src="${getImageURL(monster,game)}">   
         <h3>Family</h3>
         <span onclick=${navigate}>
             ${family.name}

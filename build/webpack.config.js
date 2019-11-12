@@ -28,6 +28,14 @@ module.exports = {
                 exclude: /node_modules/,
             },
             {
+                test: /\.(png|jpe?g|gif)$/i,
+                use: [
+                  {
+                    loader: 'file-loader?name=./[path][name].[ext]',
+                  },
+                ],
+              },
+            {
                 test: /\.module\.s(a|c)ss$/,
                 loader: [
                     isDevelopment ? 'style-loader' : MiniCssExtractPlugin.loader,

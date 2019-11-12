@@ -19,7 +19,7 @@ export default function(state: IState, emitter:any){
         <div>${skill.name}</div>    
         <div>${skill.description}</div>    
         <div class="list">
-            ${monsters.map(MonsterListItem(emitter))}
+            ${monsters.map(MonsterListItem(state,emitter))}
         </div>               
     </div>
 

@@ -26,6 +26,7 @@ export function fetchJson(path:string){
 
 */
 
+
 export function load<T>(game:GAME, jsonFile: string){
     var json = require("../../data/"+game.toLowerCase()+"/"+jsonFile);
     if(typeof json === 'string'){
