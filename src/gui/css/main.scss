@@ -17,14 +17,44 @@
  }
 
 .list{
-  padding-top: 5px;
+  display: flex;
+  flex-wrap: wrap;
+}
 
-  .item{
-    background: green;
+.table{
+  padding-top: 5px;
+  display: table;
+  text-align: center;
+
+  .row{
     padding: 5px;
     margin: 5px;
     cursor: pointer;
+    display: table-row;
+
+    .cell{
+      display: table-cell;
+      vertical-align: middle;
+      padding:10px;
+    }
+
+    &.monster{
+      span{
+        text-align: left;
+      }
+    }
   }
+
+  .family{
+    display: table-row;
+  }
+}
+
+.family {
+  .title{
+    font-size: 16pt;
+  }
+
 }
 
 .view{

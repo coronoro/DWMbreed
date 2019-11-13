@@ -7,9 +7,11 @@ import { getImageURL } from '../../../util/WebUtil';
 export default  (state:IState, emitter:any) => (monster: Monster) =>{
     
     return html `
-        <div class="monster item" onclick=${navigate}>
-            <img src="${getImageURL(monster,state.game)}">
-            ${monster.name}
+        <div class="monster row" onclick=${navigate}>
+            <div class="cell">
+                <img src="${getImageURL(monster,state.game)}">
+            </div>
+            <span class="cell">${monster.name}</span>
         </div>
     `
 

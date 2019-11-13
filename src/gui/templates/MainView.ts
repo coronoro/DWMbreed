@@ -18,22 +18,22 @@ export enum VIEWS {
     FAMILY_LIST='familyList'}
 
 export default function(state: IState, emitter:any){
-    console.log('render mainview')
-    const view = state.query.view
-    let template = IndexView(state,emitter)
+    console.log('render mainview');
+    const view = state.query.view;
+    let template = IndexView(state,emitter);
     if(view){
         switch(view){
             case VIEWS.MONSTER:
-                template = MonsterView(state,emitter)
+                template = MonsterView(state,emitter);
                 break;
             case VIEWS.SKILL:
-                template = SkillView(state,emitter)
+                template = SkillView(state,emitter);
                 break;
             case VIEWS.FAMILY_LIST:
-                template = FamilyListView(state,emitter)
+                template = FamilyListView(state,emitter);
                 break;
             default:
-                template = IndexView(state,emitter)
+                template = IndexView(state,emitter);
                 break;
         }
     }
